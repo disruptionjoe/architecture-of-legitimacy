@@ -1,0 +1,41 @@
+name: Research task
+description: Define a bounded research task for the project.
+title: "[Research]: "
+labels: ["research"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Research question
+      description: What bounded question should this task answer?
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: Claim target
+      description: Which claim or claims does this test?
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Method
+      description: What should the contributor do?
+    validations:
+      required: true
+  - type: textarea
+    id: success
+    attributes:
+      label: Success condition
+      description: What would count as a useful result?
+    validations:
+      required: true
+  - type: textarea
+    id: failure
+    attributes:
+      label: Failure condition
+      description: What result would weaken or falsify the target claim?
+    validations:
+      required: true
+
