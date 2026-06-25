@@ -35,6 +35,7 @@ That stack likely includes:
 - [Claim Ledger](CLAIMS.md): the current claims, status, proof burden, and failure conditions.
 - [Protocol Stack](PROTOCOL-STACK.md): the minimally coherent object being studied.
 - [Legitimacy Schema](LEGITIMACY-SCHEMA.md): what "legitimate" means in this project.
+- [S7 Legitimacy Monad Crosswalk](explorations/legitimacy-monad-s7-crosswalk-2026-06-25.md): how the categorical legitimacy-monad idea maps onto this repo's protocol stack.
 - [Tests](TESTS.md): bounded research tasks and falsification-oriented checks.
 - [Threat Model](THREAT-MODEL.md): economic, epistemic, and governance capture risks.
 - [Contributing](CONTRIBUTING.md): how to make a useful first contribution.
@@ -66,4 +67,3 @@ Status: early public research program.
 Governance status: explicit founder-led research phase.
 
 The founding commitment is not that the project is decentralized today. It is that claims about legitimacy, decentralization, reward, and capture resistance must become increasingly explicit, testable, and contestable as the project develops.
-

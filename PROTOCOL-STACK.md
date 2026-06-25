@@ -17,6 +17,16 @@ No single module appears sufficient.
 
 The working hypothesis is that these pieces must be designed together.
 
+The [S7 Legitimacy Monad Crosswalk](explorations/legitimacy-monad-s7-crosswalk-2026-06-25.md) gives one formal reading of this stack:
+
+```text
+raw contribution evidence
+  -> legitimacy operation
+  -> accepted record with explicit loss, contestability, and rights metadata
+```
+
+That reading is useful only if the protocol preserves the trace from local evidence to accepted record. If the trace is missing, the stack may create records, but not legitimate records.
+
 ## Layer 1: Eligibility
 
 Eligibility asks who can attempt to contribute and what kinds of contributions can enter the system.
@@ -122,6 +132,14 @@ It should record:
 
 The log is not yet a full reward ledger. It is the minimum inspectable substrate for one.
 
+S7 implication:
+
+```text
+The log should preserve the eta_P trace: submission evidence, validation path,
+accepted content, rejected or compressed residue, reviewer/rationale, appeal
+status, and any rights marker.
+```
+
 ## Layer 7: Rights
 
 Accepted contributors may need more than thanks.
@@ -183,4 +201,3 @@ Initial capture categories:
 - and founder entrenchment.
 
 Capture monitoring should eventually connect to explicit attack-profitability models.
-

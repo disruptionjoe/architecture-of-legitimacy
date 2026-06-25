@@ -18,6 +18,7 @@ The first tests are not final proof. They are small passes that should clarify w
 | T8 | AI role boundary | C7 | Define allowed and disallowed AI uses in review. | AI supports synthesis without final authority. | AI becomes an opaque legitimacy substitute. |
 | T9 | Prior-art collision check | C2, C3 | Compare the coupled-stack claim to 10 neighboring systems. | Novelty is narrowed or strengthened. | Existing prior art already contains the same object. |
 | T10 | Contribution log prototype | C5 | Create a log schema and populate three examples. | Records attribution, validation, and future-claim notes. | The log cannot represent non-code contribution well. |
+| T11 | S7 legitimacy trace workflow | C2, C3, C7 | Run one sample contribution through submission, validation, contestability, log entry, retained-right marker, and explicit loss notes. | Future contributors can reconstruct why the record is legitimate without private founder context. | The accepted record depends on opaque authority, hidden AI judgment, or unrecorded loss. |
 
 ## Toy Payoff Model Starter
 
@@ -90,4 +91,3 @@ Good first agent tasks:
 - turn the toy payoff model into a clearer variable glossary,
 - draft the first contribution log schema,
 - propose a founder-led phase with explicit constraints.
-

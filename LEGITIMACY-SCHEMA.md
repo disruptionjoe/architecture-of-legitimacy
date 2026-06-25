@@ -2,6 +2,10 @@
 
 This project treats legitimacy as a first-class design variable.
 
+See also:
+
+- [S7 Legitimacy Monad Crosswalk](explorations/legitimacy-monad-s7-crosswalk-2026-06-25.md), which maps the categorical legitimacy operation `P -> L(P)` onto this repo's visibility, contestability, retained-record, adaptive-rule, bounded-authority, and non-capture conditions.
+
 ## Provisional Definition
 
 A contribution institution is legitimate to the extent that informed participants continue to choose participation because they regard its rules, judgments, rights, and adaptation pathways as acceptably fair, contestable, and non-coercive.
@@ -110,4 +114,4 @@ These metrics can be gamed. They are research instruments, not replacements for 
 3. Can legitimacy be modeled as an opt-in stability condition?
 4. How should legitimacy failures be classified?
 5. How can a system distinguish legitimate dissatisfaction from adversarial pressure?
-
+6. Can the contribution workflow preserve an explicit trace from local evidence to legitimate record, including what was filtered or deferred?

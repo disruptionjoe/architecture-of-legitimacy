@@ -59,6 +59,22 @@ The novelty is not:
 
 Those are known neighboring ideas. This project is about the coupled architecture.
 
+## Supporting Formalization Path
+
+The S7 Legitimacy Monad crosswalk gives C2 and C3 a sharper formal target:
+
+```text
+local contribution evidence P
+  -> legitimacy operation eta_P : P -> L(P)
+  -> accepted institutional record L(P)
+```
+
+For this repo, `L` is not a metaphysical authority. It is the visible,
+contestable, record-preserving workflow that makes contribution data stable
+enough to support later rights, rewards, or governance decisions.
+
+See `explorations/legitimacy-monad-s7-crosswalk-2026-06-25.md`.
+
 ## Falsification And Demotion Conditions
 
 A claim should be demoted if:
@@ -69,4 +85,3 @@ A claim should be demoted if:
 - the first repo workflow produces mostly noise and no useful contribution signal,
 - participants experience the review process as illegitimate despite procedural compliance,
 - or attack modeling shows that value accumulation makes capture strictly easier under the proposed rules.
-
