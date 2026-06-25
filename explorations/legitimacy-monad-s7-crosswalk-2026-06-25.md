@@ -29,6 +29,33 @@ a formal target: specify the operation that turns local, provisional,
 contestable contribution data into stable institutional records without hiding
 loss, disagreement, or capture risk.
 
+## Strong Form vs Conservative Workflow
+
+Keep two claims distinct.
+
+Strong-form S7:
+
+```text
+Legitimacy may be a first-class primitive of observer and institutional
+mathematics.
+```
+
+In this repo, the strong form says legitimacy is not just a nice property of a
+finished contribution workflow. It may be the organizing operation that makes
+contribution records, rights, rewards, and governance transitions buildable at
+all.
+
+Conservative workflow formalization:
+
+```text
+Treat the current protocol stack as one operational model of that primitive.
+```
+
+The first implementation is deliberately narrower: eligibility, validation,
+contestability, log admission, rights markers, and non-capture monitoring. If
+that workflow fails, the repo has learned that this operational route is weak;
+it has not automatically disproved the stronger categorical hypothesis.
+
 ## Key Mapping
 
 | S7 object | Architecture-of-Legitimacy object |
@@ -235,4 +262,3 @@ The ecosystem mapping is:
 
 This repo is where S7 stops being only a categorical bridge and becomes a
 testable contribution workflow.
-
