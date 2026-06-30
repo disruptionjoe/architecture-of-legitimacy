@@ -1,3 +1,6 @@
 .DS_Store
 Thumbs.db
 
+
+# CapacityOS scratch convention (durable artifacts -> JB/library; secrets -> vault)
+_local/
