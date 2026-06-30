@@ -84,3 +84,9 @@ Be rigorous and direct without being abusive.
 
 This project values critique. It does not value harassment, manipulation, plagiarism, or bad-faith flooding.
 
+
+## Templates
+
+- Contribution proposal: [templates/contribution-proposal.md](templates/contribution-proposal.md)
+- Contribution log schema: [templates/contribution-log-schema.md](templates/contribution-log-schema.md)
+- GitHub issue: use the "Contribution" issue template.
