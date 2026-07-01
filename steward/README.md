@@ -91,7 +91,7 @@ Chronological memory lives at `steward/memory-log.md`.
 
 After every session where this README is loaded, append useful memory from that session to the memory log. Useful memory may include Joe decisions, durable operating preferences, friction, repeated patterns, repo quirks, routing clarifications, changes to the repo's operating shape, candidate principles, or items that may later be summarized into this README.
 
-Upward learning mechanics mainly belong in RCCM/workflow machinery. Lightweight pointer: method/workflow-module learnings go to `CapacityOS/system/rccm-learnings/`; kernel-primitive learnings go to `CapacityOS/system/kernel-learnings/`.
+Upward learning mechanics mainly belong in RCCM/workflow machinery. Lightweight pointer: method/workflow-module learnings go to `CapacityOS/mailboxes/rccm/`; kernel-primitive learnings go to `CapacityOS/mailboxes/kernel/`.
 
 ## Automation Hooks
 
