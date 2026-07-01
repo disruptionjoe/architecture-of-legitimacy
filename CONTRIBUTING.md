@@ -52,6 +52,10 @@ What sources, examples, models, or arguments support it?
 ## Failure Or Risk
 
 What might be wrong with this contribution?
+
+## Loss Or Deferred Value
+
+What useful value might be lost if this contribution is revised, narrowed, or not accepted as-is?
 ```
 
 ## Review Expectations

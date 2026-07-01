@@ -18,3 +18,5 @@ See [CONTRIBUTION-STANDARDS.md](../../CONTRIBUTION-STANDARDS.md). Anyone may att
 **Value-rubric self-assessment (0-3):** clarity / rigor / relevance / novelty / legitimacy / capture-resistance / coordination-value
 
 **Failure modes (how it could be wrong, gamed, or overclaimed):**
+
+**Loss or deferred value (what useful value might be lost if this is revised, narrowed, or not accepted as-is):**

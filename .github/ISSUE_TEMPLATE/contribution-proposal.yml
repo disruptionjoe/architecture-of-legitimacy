@@ -52,4 +52,10 @@ body:
       description: What might be wrong with this contribution?
     validations:
       required: false
-
+  - type: textarea
+    id: loss_or_deferred_value
+    attributes:
+      label: Loss or deferred value
+      description: What useful value might be lost if this is revised, narrowed, or not accepted as-is?
+    validations:
+      required: false
