@@ -17,3 +17,6 @@ Chronological run/learning log for this repo's steward package. Append newest en
 - **2026-06-30 - first end-to-end stewardship on a live repo.** The map -> rollout -> progress -> stewardship sequence ran cleanly on one repo with the same machinery for progress and maintenance. The progress/maintenance split is real and both modes localize the same RCCM. Generalizable method learning, flagged for upward emit to CapacityOS System.
 - **2026-06-30 - consistency sweep.** Contribution scaffolding (templates, issue template, log schema) matches CONTRIBUTION-STANDARDS review states and rubric dimensions; CONTRIBUTING points at the templates; steward-contract artifact zones match the locked Information Classification; surface map status `stewarded` matches reality. No transcribe-then-retire obligation outstanding.
 - **2026-07-01 - canonical steward file migration.** `steward/README.md` is now the canonical load-first steward summary. `AGENTS.md` is repo infrastructure and points to the steward context instead of carrying the steward package itself.
+## 2026-07-01
+
+- Discovery fleet pass found the first valid contribution workflow is the central evidence burden; reward, transition, and generalization should remain behind that test. See `steward/runs/2026-07-01-discovery-fleet-pass.md`.
