@@ -21,3 +21,4 @@ Chronological run/learning log for this repo's steward package. Append newest en
 
 - Stewardship fleet pass checked the mailbox and found no proposal messages; logged the first contribution workflow as the central future Progress concern without changing claims or governance. See `steward/runs/2026-07-01-stewardship-fleet-pass.md`.
 - Discovery fleet pass found the first valid contribution workflow is the central evidence burden; reward, transition, and generalization should remain behind that test. See `steward/runs/2026-07-01-discovery-fleet-pass.md`.
+- Progress fleet pass ran a synthetic first-contribution workflow trace under `projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-trace.md`. The workflow is usable for first-pass review; the clearest future refinement is whether `CONTRIBUTIONS-LOG.md` should support explicit loss notes after a real contribution trace. See `steward/runs/2026-07-01-progress-fleet-pass.md`.
