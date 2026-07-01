@@ -7,7 +7,7 @@ labels: contribution
 
 See [CONTRIBUTION-STANDARDS.md](../../CONTRIBUTION-STANDARDS.md). Anyone may attempt to contribute by following project rules.
 
-**Contribution class:** research | formalization | protocol-design | review | synthesis | implementation
+**Contribution class:** research | formalization | protocol design | review | synthesis | implementation | maintenance
 
 **What does it do / why is it relevant to a live research question?**
 

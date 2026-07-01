@@ -1,5 +1,5 @@
 name: Contribution proposal
-description: Propose a research, protocol, review, synthesis, or implementation contribution.
+description: Propose a research, formalization, protocol design, review, synthesis, implementation, or maintenance contribution.
 title: "[Contribution]: "
 labels: ["contribution"]
 body:

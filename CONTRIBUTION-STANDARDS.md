@@ -89,6 +89,18 @@ Weak example:
 
 > A polished app before the underlying workflow is defined.
 
+### Maintenance
+
+Improves the usability, consistency, or upkeep of existing project surfaces without changing research claims.
+
+Good example:
+
+> A link fix, taxonomy alignment, or issue-template cleanup that makes contribution review easier to run.
+
+Weak example:
+
+> Rewriting project direction while labeling the change as cleanup.
+
 ## Initial Value Rubric
 
 Each accepted contribution may be evaluated across these dimensions:
@@ -141,4 +153,3 @@ A first valid contribution should do one of the following:
 - add an attack scenario to [THREAT-MODEL.md](THREAT-MODEL.md),
 - refine the toy payoff model in [TESTS.md](TESTS.md),
 - or improve the contribution workflow itself.
-

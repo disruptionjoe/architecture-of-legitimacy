@@ -4,7 +4,7 @@ Use this template to propose a contribution. See [CONTRIBUTION-STANDARDS.md](../
 
 - **Title:**
 - **Contributor:** (name or pseudonym; agent-assisted? yes/no)
-- **Contribution class:** research | formalization | protocol-design | review | synthesis | implementation
+- **Contribution class:** research | formalization | protocol design | review | synthesis | implementation | maintenance
 - **Target file(s) / claim(s) addressed:**
 - **Summary:** (what it does; why it addresses a live research question)
 - **Prior art / sources:** (required for research-class)
