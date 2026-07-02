@@ -4,3 +4,6 @@ Thumbs.db
 
 # CapacityOS scratch convention (durable artifacts -> JB/library; secrets -> vault)
 _local/
+
+# Internal CapacityOS fan-out run records (ops artifacts; not published)
+steward/runs/

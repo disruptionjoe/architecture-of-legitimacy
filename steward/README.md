@@ -61,9 +61,9 @@ Route, don't absorb: point to truth owned elsewhere; never accrete another repo'
 ## Routing
 
 - Research claims, schemas, tests, roadmap, and contribution standards stay in this repo.
-- CapacityOS architecture questions route to `C:\Users\joe\JB\CapacityOS`.
-- JoeOps coordination questions route to `C:\Users\joe\JB\CapacityOS\repos\private\joeops`.
-- Durable rendered artifacts belong in `C:\Users\joe\JB\library\repos\public\architecture-of-legitimacy\`.
+- CapacityOS architecture questions route to `CapacityOS`.
+- JoeOps coordination questions route to `CapacityOS\repos\private\joeops`.
+- Durable rendered artifacts belong in `library\repos\public\architecture-of-legitimacy\`.
 - Scratch, caches, and intermediate renders belong in `_local/`.
 
 ## Candidate Decisions
