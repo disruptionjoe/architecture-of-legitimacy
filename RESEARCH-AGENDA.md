@@ -49,6 +49,10 @@ Deliverables:
 - appeal and dispute workflow,
 - minimum rationale requirements.
 
+Current scaffold:
+
+- [RQ4 review-cadence options scaffold](projects/review-cadence-options/2026-07-02-rq4-review-cadence-options.md) compares candidate cadence lanes and rationale minimums without adopting a review policy.
+
 ### RQ5: Prototype Workflow
 
 What is the simplest end-to-end contribution flow?
@@ -148,4 +152,3 @@ Good contributions should:
 - or expose a failure mode.
 
 The project should reward truth-seeking more than persuasion.
-
