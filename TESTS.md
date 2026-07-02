@@ -20,6 +20,11 @@ The first tests are not final proof. They are small passes that should clarify w
 | T10 | Contribution log prototype | C5 | Create a log schema and populate three examples. | Records attribution, validation, and future-claim notes. | The log cannot represent non-code contribution well. |
 | T11 | S7 legitimacy trace workflow | C2, C3, C7 | Run one sample contribution through submission, validation, contestability, log entry, retained-right marker, and explicit loss notes. | Future contributors can reconstruct why the record is legitimate without private founder context. | The accepted record depends on opaque authority, hidden AI judgment, or unrecorded loss. |
 
+## Test Artifacts
+
+- T10 synthetic log examples: [projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-log-examples.md](projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-log-examples.md). This pressure-tests three non-real log entries and does not mark T10 passed.
+- T11 synthetic workflow trace: [projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-trace.md](projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-trace.md). This walks one non-real proposal through the current workflow and does not create a live contribution.
+
 ## Toy Payoff Model Starter
 
 This is a placeholder model to refine.
