@@ -33,3 +33,4 @@ Chronological run/learning log for this repo's steward package. Append newest en
 ## 2026-07-02
 
 - Progress fan-out run linked the existing T1 contribution taxonomy fixture from `TESTS.md` so the test matrix can discover it alongside T10 and T11 artifacts. This did not mark T1 passed or change taxonomy policy, claims, governance, reward policy, or real contribution records. See `steward/runs/2026-07-02-progress-fanout-t1-test-artifact-pointer.md`.
+- Progress fan-out run added a synthetic T2 value-rubric dry-run fixture under `projects/value-rubric-dry-run/` and linked it from `TESTS.md`. This did not mark T2 passed or change rubric policy, claims, governance, reward policy, or real contribution records. See `steward/runs/2026-07-02-progress-fanout-068.md`.

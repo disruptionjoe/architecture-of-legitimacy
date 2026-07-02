@@ -23,6 +23,7 @@ The first tests are not final proof. They are small passes that should clarify w
 ## Test Artifacts
 
 - T1 contribution taxonomy fixture: [projects/contribution-taxonomy/2026-07-01-t1-contribution-taxonomy-fixture.md](projects/contribution-taxonomy/2026-07-01-t1-contribution-taxonomy-fixture.md). This pressure-tests current contribution classes with synthetic sample submissions and does not mark T1 passed.
+- T2 value rubric dry run: [projects/value-rubric-dry-run/2026-07-02-t2-value-rubric-dry-run.md](projects/value-rubric-dry-run/2026-07-02-t2-value-rubric-dry-run.md). This pressure-tests the current seven-dimension rubric with synthetic contributions and does not mark T2 passed.
 - T10 synthetic log examples: [projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-log-examples.md](projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-log-examples.md). This pressure-tests three non-real log entries and does not mark T10 passed.
 - T11 synthetic workflow trace: [projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-trace.md](projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-trace.md). This walks one non-real proposal through the current workflow and does not create a live contribution.
 
