@@ -13,7 +13,7 @@ See [CONTRIBUTION-STANDARDS.md](../../CONTRIBUTION-STANDARDS.md). Anyone may att
 
 **Target file(s) or claim(s) addressed:**
 
-**Prior art / sources (required for research-class):**
+**Prior art / sources (required for research-class; include stable citations or links, relevance to the target, mechanism-level comparison, and source limits):**
 
 **Value-rubric self-assessment (0-3):** clarity / rigor / relevance / novelty / legitimacy / capture-resistance / coordination-value
 

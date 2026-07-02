@@ -101,6 +101,21 @@ Weak example:
 
 > Rewriting project direction while labeling the change as cleanup.
 
+## Research-Class Evidence Minimum
+
+Research-class and prior-art contributions should include enough evidence for a reviewer to evaluate the contribution without private context.
+
+A first pass should:
+
+- name the source, system, author, or practice being compared;
+- provide a stable citation, link, or bibliographic reference for each central source;
+- explain why the source matters to a live claim, test, document, or research question;
+- compare mechanisms rather than only labels, especially contribution validation, value allocation, voice, contestability, and capture risk where relevant;
+- separate what the source shows from what the contributor infers;
+- name at least one limitation, uncertainty, or failure mode of the comparison.
+
+Missing one or more of these elements should usually lead to `needs_revision`, not automatic rejection. This threshold supports review clarity; it does not create reward, retained-value, governance, or legal claims.
+
 ## Initial Value Rubric
 
 Each accepted contribution may be evaluated across these dimensions:

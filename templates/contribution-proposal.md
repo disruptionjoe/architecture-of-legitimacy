@@ -7,7 +7,7 @@ Use this template to propose a contribution. See [CONTRIBUTION-STANDARDS.md](../
 - **Contribution class:** research | formalization | protocol design | review | synthesis | implementation | maintenance
 - **Target file(s) / claim(s) addressed:**
 - **Summary:** (what it does; why it addresses a live research question)
-- **Prior art / sources:** (required for research-class)
+- **Prior art / sources:** (required for research-class; include stable citations or links, relevance to the target, mechanism-level comparison, and source limits)
 - **Value-rubric self-assessment (0-3 each):** clarity / rigor / relevance / novelty / legitimacy / capture-resistance / coordination-value
 - **Failure modes:** (how this could be wrong, gamed, or overclaimed)
 - **Loss or deferred value:** (what useful value might be lost if this is revised, narrowed, or not accepted as-is)

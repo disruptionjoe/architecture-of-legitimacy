@@ -17,12 +17,14 @@ Read:
 Strong first contributions include:
 
 - improving one claim in the claim ledger,
-- adding prior art with a short relevance note,
+- adding prior art with a source-backed relevance note,
 - proposing a better value rubric,
 - red-teaming one protocol component,
 - refining the toy payoff model,
 - drafting a contribution-log schema,
 - or identifying an overclaim.
+
+For research-class or prior-art contributions, include a stable citation or link, explain why the source matters to a live project question, compare mechanisms rather than labels, and name at least one limitation or failure mode.
 
 ## Contribution Proposal Format
 
@@ -47,7 +49,7 @@ How does this improve clarity, rigor, legitimacy, capture resistance, or contrib
 
 ## Evidence Or Reasoning
 
-What sources, examples, models, or arguments support it?
+What sources, examples, models, or arguments support it? For research-class work, include stable citations or links, relevance to the target, mechanism-level comparison, and source limits.
 
 ## Failure Or Risk
 
