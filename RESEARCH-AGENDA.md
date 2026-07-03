@@ -124,6 +124,10 @@ Deliverables:
 - economic, epistemic, and governance capture scenarios,
 - mitigation map.
 
+Current scaffold:
+
+- [RQ8 attack-profitability variable map](projects/attack-profitability/2026-07-03-rq8-attack-profitability-variable-map.md) connects current threat classes, protocol layers, T6 attack scenarios, and C4 proof burdens to a shared modeling vocabulary without adopting mitigations, governance rules, reward logic, claim-status changes, or public posture.
+
 ### RQ9: Reward Logic
 
 What reward mechanism could be tested without pretending the full governance problem is solved?
