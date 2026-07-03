@@ -82,6 +82,10 @@ Deliverables:
 - founder constraints,
 - rollback and emergency conditions.
 
+Current scaffold:
+
+- [T7 founder-phase constraint review prep](projects/founder-phase-constraint/2026-07-02-t7-founder-phase-constraint-review-prep.md) identifies governance decision slots and evidence requirements for later review without adopting founder powers, limits, transition triggers, emergency rules, or governance policy.
+
 ### RQ7: Voice, Exit, And Retained Value
 
 What rights should participants have from day one?
