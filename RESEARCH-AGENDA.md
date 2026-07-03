@@ -139,6 +139,10 @@ Deliverables:
 - no-reward baseline,
 - criteria for reward readiness.
 
+Current scaffold:
+
+- [RQ9 reward-readiness boundary map](projects/reward-readiness/2026-07-03-rq9-reward-readiness-boundary-map.md) separates reward alternatives, readiness gates, no-reward baseline, retained-value ambiguity, and capture risks without adopting reward logic, payout formulas, governance weight, claim-status changes, or real contribution records.
+
 ### RQ10: Generalization
 
 What must be true before this pattern can apply beyond one repo?
