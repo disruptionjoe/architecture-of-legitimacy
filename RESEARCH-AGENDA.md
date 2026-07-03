@@ -77,6 +77,10 @@ Deliverables:
 - acceptance and revision states,
 - first dry-run test.
 
+Current scaffold:
+
+- [RQ5 prototype-workflow synthesis scaffold](projects/prototype-workflow/2026-07-02-rq5-prototype-workflow-synthesis.md) assembles existing templates, issue forms, log schema, and synthetic workflow traces into a candidate one-page flow without changing active contribution instructions or review policy.
+
 ## Second-Ring Questions
 
 ### RQ6: Governance Transition
