@@ -35,6 +35,10 @@ The first tests are not final proof. They are small passes that should clarify w
 - T10 synthetic log examples: [projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-log-examples.md](projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-log-examples.md). This pressure-tests three non-real log entries and does not mark T10 passed.
 - T11 synthetic workflow trace: [projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-trace.md](projects/first-contribution-workflow-dry-run/2026-07-01-synthetic-contribution-trace.md). This walks one non-real proposal through the current workflow, now reflects explicit `loss_notes` schema support, and does not create a live contribution.
 
+## Supporting Research Artifacts
+
+- C2 coupled-stack dependency map: [projects/coupled-stack-dependency/2026-07-03-c2-coupled-stack-dependency-map.md](projects/coupled-stack-dependency/2026-07-03-c2-coupled-stack-dependency-map.md). This maps local protocol-layer dependencies and isolated-layer failure modes without changing C2 status, marking test pass/fail state, adopting policy, making a prior-art verdict, or deciding any real contribution.
+
 ## Toy Payoff Model Starter
 
 This is a placeholder model to refine.
