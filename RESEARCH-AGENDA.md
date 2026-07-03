@@ -46,6 +46,10 @@ Deliverables:
 - failure modes for each rubric dimension,
 - comparison to prior art in open source, grants, peer review, and DAOs.
 
+Current scaffold:
+
+- [RQ3 initial value-rubric options scaffold](projects/value-rubric-options/2026-07-02-rq3-value-rubric-options.md) compares candidate rubric shapes, failure modes, class stress points, and later adoption questions without changing active scoring dimensions or reward meaning.
+
 ### RQ4: Cadence And Evaluation
 
 How often should contributions be reviewed, by whom, and through what process?
