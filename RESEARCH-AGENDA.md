@@ -17,6 +17,10 @@ Deliverables:
 - pseudonymous and agent contribution policy,
 - conflict-of-interest disclosure proposal.
 
+Current scaffold:
+
+- [RQ1 contribution-eligibility options scaffold](projects/contribution-eligibility/2026-07-02-rq1-contribution-eligibility-options.md) compares candidate eligibility principles, ineligible behaviors, and disclosure questions without adopting contribution policy.
+
 ### RQ2: Contribution Taxonomy
 
 Which contribution types should be recognized separately?
