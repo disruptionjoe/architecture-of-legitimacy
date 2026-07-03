@@ -39,6 +39,7 @@ The first tests are not final proof. They are small passes that should clarify w
 
 - C2 coupled-stack dependency map: [projects/coupled-stack-dependency/2026-07-03-c2-coupled-stack-dependency-map.md](projects/coupled-stack-dependency/2026-07-03-c2-coupled-stack-dependency-map.md). This maps local protocol-layer dependencies and isolated-layer failure modes without changing C2 status, marking test pass/fail state, adopting policy, making a prior-art verdict, or deciding any real contribution.
 - C2 fixture-readiness review: [projects/coupled-stack-dependency/2026-07-03-c2-fixture-readiness-review.md](projects/coupled-stack-dependency/2026-07-03-c2-fixture-readiness-review.md). This reviews which C2 isolated-layer failures are already covered by existing fixtures and which would need later synthetic review without creating a fixture, changing C2 status, marking test pass/fail state, adopting policy, making a prior-art verdict, or deciding any real contribution.
+- C7/T8 AI-assisted review trace checklist: [projects/ai-role-boundary/2026-07-03-c7-ai-assisted-review-trace-checklist.md](projects/ai-role-boundary/2026-07-03-c7-ai-assisted-review-trace-checklist.md). This prepares a review trace checklist for AI-assisted contribution review without changing AI policy, contribution policy, governance, claim status, public posture, reward or rights meaning, T8 pass/fail state, or real contribution records.
 
 ## Toy Payoff Model Starter
 
