@@ -38,6 +38,7 @@ The first tests are not final proof. They are small passes that should clarify w
 ## Supporting Research Artifacts
 
 - C2 coupled-stack dependency map: [projects/coupled-stack-dependency/2026-07-03-c2-coupled-stack-dependency-map.md](projects/coupled-stack-dependency/2026-07-03-c2-coupled-stack-dependency-map.md). This maps local protocol-layer dependencies and isolated-layer failure modes without changing C2 status, marking test pass/fail state, adopting policy, making a prior-art verdict, or deciding any real contribution.
+- C2 fixture-readiness review: [projects/coupled-stack-dependency/2026-07-03-c2-fixture-readiness-review.md](projects/coupled-stack-dependency/2026-07-03-c2-fixture-readiness-review.md). This reviews which C2 isolated-layer failures are already covered by existing fixtures and which would need later synthetic review without creating a fixture, changing C2 status, marking test pass/fail state, adopting policy, making a prior-art verdict, or deciding any real contribution.
 
 ## Toy Payoff Model Starter
 
