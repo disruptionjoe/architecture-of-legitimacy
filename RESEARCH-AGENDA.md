@@ -31,6 +31,10 @@ Deliverables:
 - examples of accepted and rejected contributions,
 - mapping from contribution classes to review paths.
 
+Current scaffold:
+
+- [RQ2 contribution-taxonomy review-path map](projects/contribution-taxonomy/2026-07-02-rq2-review-path-map.md) maps current contribution classes to candidate review lanes, intake evidence, first-pass states, and ambiguity checks without adopting taxonomy or review-path policy.
+
 ### RQ3: Initial Value Rubrics
 
 How should value be judged before the system has much data or legitimacy?
