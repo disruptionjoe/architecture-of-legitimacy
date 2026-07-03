@@ -21,6 +21,12 @@ workflow. It does not create a real contribution, does not edit
 - `templates/contribution-log-schema.md`
 - `TESTS.md`
 
+## Current schema alignment
+
+This trace was created before the contribution-log schema gained an explicit
+`loss_notes` field. It now reflects the current schema support without changing
+the original synthetic review state or creating any live contribution record.
+
 ## Synthetic proposal
 
 - **Title:** Prior-art comparison: Gitcoin quadratic funding vs legitimacy trace
@@ -49,7 +55,7 @@ workflow. It does not create a real contribution, does not edit
 | 5. Capture-risk check | Reviewer asks whether the contribution clarifies or obscures attack risk. | Needs revision. | A real version should explicitly separate sybil resistance, collusion, voice, reward, and legitimacy. |
 | 6. Contestability | Contributor should be able to see why the review state was chosen. | Pass if rationale is recorded. | The current log schema supports rationale, but the review procedure should consistently state the decisive gap. |
 | 7. Retained record | The project should retain enough information to reconstruct why the record is legitimate. | Pass for accepted/revised states if logged. | `CONTRIBUTIONS-LOG.md` can represent this, but a real first contribution should include a public rationale line. |
-| 8. Loss notes | If work is not accepted as-is, the project should record what value was lost or deferred. | Partially supported. | The schema has rationale but no explicit `loss_notes` field. This is not a blocker, but it is a useful future refinement. |
+| 8. Loss notes | If work is not accepted as-is, the project should record what value was lost or deferred. | Schema-supported. | The current schema has explicit `loss_notes`; the remaining test is whether reviewers use it clearly in a real contribution trace. |
 
 ## Candidate log entry if this were real
 
@@ -75,6 +81,10 @@ rationale: >
   Relevant to the first-contribution workflow and capture-resistance question,
   but not yet source-backed or mechanism-specific enough to enter the project
   record as research.
+loss_notes: >
+  The proposal preserves a useful comparison target for later prior-art work,
+  but the unsourced and mechanism-light version defers any claim update,
+  threat-model change, or accepted research record.
 links: []
 ```
 
@@ -86,10 +96,11 @@ links: []
 2. **The workflow still relies on founder/reviewer judgment, but not silently.**
    The standards give enough vocabulary to explain the judgment, especially when
    the decisive gap is evidence quality or capture-risk specificity.
-3. **Loss notes are the main schema gap.** T11 asks for explicit loss notes. The
-   current schema can approximate this through `rationale`, but a future
-   Stewardship or Progress run may add a lightweight `loss_notes` field if Joe
-   wants the trace to be more reconstructable.
+3. **Loss notes are now schema-supported but still need real-use proof.** T11
+   asks for explicit loss notes, and the current schema can carry them. The
+   next evidence question is whether real reviews use the field to preserve
+   deferred value without implying acceptance, reward, or future legal/financial
+   claims.
 4. **The right next real test is a real prior-art contribution.** A future
    Progress run should not build a larger governance system yet. It should run one
    real, bounded contribution through this same path and record the result.
@@ -98,7 +109,7 @@ links: []
 
 - No real contributor is represented here.
 - No real contribution was accepted or rejected.
+- No live contribution log entry was changed.
 - No claim status changed.
 - No public governance standard changed.
 - No reusable CapacityOS method was imported into this repo.
-
