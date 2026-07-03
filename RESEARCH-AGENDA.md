@@ -150,6 +150,10 @@ Deliverables:
 - criteria for moving from one repo to many,
 - public-goods and local civic use-case analysis.
 
+Current scaffold:
+
+- [RQ10 transfer-conditions scaffold](projects/generalization/2026-07-03-rq10-transfer-conditions-scaffold.md) separates source-repo evidence, target-context fit, failure signals, and review questions without claiming generalization, choosing pilots, or adopting transfer policy.
+
 ## Prior Art Map Needed
 
 The project needs literature and practice reviews across:
