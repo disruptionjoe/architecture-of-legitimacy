@@ -109,6 +109,10 @@ Deliverables:
 - exit scenarios,
 - dispute-resolution paths.
 
+Current scaffold:
+
+- [RQ7 voice, exit, and retained-value boundary map](projects/participant-rights/2026-07-03-rq7-voice-exit-retained-value-boundary-map.md) separates participant-rights, retained-record, retained-value, exit, and dispute-path questions without adopting rights policy, reward promises, appeal rules, governance changes, or real contribution records.
+
 ### RQ8: Attack And Capture Modeling
 
 What attacks become profitable as value accumulates?
