@@ -65,3 +65,7 @@ Chronological run/learning log for this repo's steward package. Append newest en
 
 - Progress fan-out run added a second verdict-free T9 source packet for Gitcoin public-goods quadratic funding under `projects/prior-art-collision-check/`, keeping it `partial_ready` with `collision_result: unresolved`. This did not edit tests, the Optimism packet, contribution records, claims, governance, reward policy, public posture, or cross-repo state. See `steward/runs/2026-07-04-progress-fanout-143-gitcoin-qf-source-packet.md`.
 - Progress fan-out run added a third verdict-free T9 source packet for Wikipedia contribution, edit, and dispute processes under `projects/prior-art-collision-check/`, keeping it `partial_ready` with `collision_result: unresolved`. This did not edit tests, the Optimism or Gitcoin packets, contribution records, claims, governance, reward policy, public posture, or cross-repo state. See `steward/runs/2026-07-04-progress-fanout-148-wikipedia-source-packet.md`.
+
+## 2026-07-05
+
+- Progress fan-out run added a fourth verdict-free T9 source packet for academic peer review under `projects/prior-art-collision-check/`, keeping it `partial_ready` with `collision_result: unresolved`. This did not edit tests, existing T9 source packets, contribution records, claims, governance, reward policy, public posture, or cross-repo state. See `steward/runs/2026-07-05-progress-fanout-152-academic-peer-review-source-packet.md`.
