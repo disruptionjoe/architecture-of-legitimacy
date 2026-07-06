@@ -189,6 +189,10 @@ The project needs literature and practice reviews across:
 - cooperative ownership,
 - and participatory budgeting.
 
+Current prior-art preparation:
+
+- [T9 open-source maintainer governance packet scaffold](projects/prior-art-collision-check/2026-07-06-t9-maintainer-governance-packet-scaffold.md) prepares the T9-PA-05 source slots and review axes for the open-source maintainer governance lane without attaching sources, assigning a collision level, or changing claims, governance, reward meaning, public posture, or contribution records.
+
 ## Research Norms
 
 Good contributions should:
