@@ -20,6 +20,7 @@ Deliverables:
 Current scaffold:
 
 - [RQ1 contribution-eligibility options scaffold](projects/contribution-eligibility/2026-07-02-rq1-contribution-eligibility-options.md) compares candidate eligibility principles, ineligible behaviors, and disclosure questions without adopting contribution policy.
+- [RQ1 disclosure edge-case matrix](projects/contribution-eligibility/2026-07-06-rq1-disclosure-edge-case-matrix.md) pressure-tests identity, affiliation, pseudonymity, agent assistance, private evidence, conflict, and adversarial-incentive disclosure cases without adopting eligibility or disclosure policy.
 
 ### RQ2: Contribution Taxonomy
 
