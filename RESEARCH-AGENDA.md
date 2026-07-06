@@ -120,6 +120,7 @@ Deliverables:
 Current scaffold:
 
 - [RQ7 voice, exit, and retained-value boundary map](projects/participant-rights/2026-07-03-rq7-voice-exit-retained-value-boundary-map.md) separates participant-rights, retained-record, retained-value, exit, and dispute-path questions without adopting rights policy, reward promises, appeal rules, governance changes, or real contribution records.
+- [RQ7 exit and contestability pressure map](projects/participant-rights/2026-07-06-rq7-exit-contestability-pressure-map.md) pressure-tests exit, retained-record, identity-change, adverse-review, dispute, and useful-residue cases without adopting rights policy, identity policy, appeal rules, reward promises, governance changes, or real contribution records.
 
 ### RQ8: Attack And Capture Modeling
 
