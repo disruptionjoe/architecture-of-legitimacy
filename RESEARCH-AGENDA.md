@@ -51,6 +51,7 @@ Deliverables:
 Current scaffold:
 
 - [RQ3 initial value-rubric options scaffold](projects/value-rubric-options/2026-07-02-rq3-value-rubric-options.md) compares candidate rubric shapes, failure modes, class stress points, and later adoption questions without changing active scoring dimensions or reward meaning.
+- [RQ3 value-rubric dimension failure map](projects/value-rubric-options/2026-07-06-rq3-dimension-failure-map.md) pressure-tests each current rubric dimension for false positives, collapse risks, repair questions, and T2 dry-run prompts without changing active scoring dimensions, reviewer authority, reward meaning, or contribution policy.
 
 ### RQ4: Cadence And Evaluation
 
