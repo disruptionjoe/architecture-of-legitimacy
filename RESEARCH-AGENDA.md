@@ -85,6 +85,7 @@ Deliverables:
 Current scaffold:
 
 - [RQ5 prototype-workflow synthesis scaffold](projects/prototype-workflow/2026-07-02-rq5-prototype-workflow-synthesis.md) assembles existing templates, issue forms, log schema, and synthetic workflow traces into a candidate one-page flow without changing active contribution instructions or review policy.
+- [RQ5 workflow handoff gap map](projects/prototype-workflow/2026-07-06-rq5-workflow-handoff-gap-map.md) identifies the remaining handoff checks between proposal, triage, evidence review, governance boundary, review state, loss notes, contestability, and log eligibility without adopting workflow policy or deciding any real contribution.
 
 ## Second-Ring Questions
 
