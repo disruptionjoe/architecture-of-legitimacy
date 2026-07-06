@@ -104,6 +104,7 @@ Current scaffolds:
 
 - [T7 founder-phase constraint review prep](projects/founder-phase-constraint/2026-07-02-t7-founder-phase-constraint-review-prep.md) identifies governance decision slots and evidence requirements for later review without adopting founder powers, limits, transition triggers, emergency rules, or governance policy.
 - [RQ6 phase-transition evidence scaffold](projects/founder-phase-constraint/2026-07-03-rq6-phase-transition-evidence-scaffold.md) maps the evidence a later governance review would need before treating phase movement as legitimate without adopting transition triggers, founder powers, emergency rules, reviewer authority, or governance policy.
+- [RQ6 emergency and rollback boundary map](projects/founder-phase-constraint/2026-07-06-rq6-emergency-rollback-boundary.md) separates temporary authority, rollback, correction, pause, and expiration questions without adopting emergency powers, rollback policy, founder limits, reviewer authority, participant rights, or governance rules.
 
 ### RQ7: Voice, Exit, And Retained Value
 
