@@ -137,6 +137,7 @@ Current scaffold:
 
 - [RQ8 attack-profitability variable map](projects/attack-profitability/2026-07-03-rq8-attack-profitability-variable-map.md) connects current threat classes, protocol layers, T6 attack scenarios, and C4 proof burdens to a shared modeling vocabulary without adopting mitigations, governance rules, reward logic, claim-status changes, or public posture.
 - [RQ8 capture threshold map](projects/attack-profitability/2026-07-06-rq8-capture-threshold-map.md) separates local workflow-repair responses from governance-, reward-, rights-, disclosure-, sanction-, and public-posture escalation boundaries without adopting mitigation policy or changing claim status.
+- [T6 detection evidence map](projects/attack-surface-map/2026-07-06-t6-detection-evidence-map.md) separates observable evidence, inference, false-positive hazards, and escalation thresholds for attack-surface review without adopting monitoring policy, changing governance, or marking T6/RQ8 complete.
 
 ### RQ9: Reward Logic
 
