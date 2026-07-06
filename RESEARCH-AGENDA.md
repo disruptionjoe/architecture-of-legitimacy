@@ -61,9 +61,10 @@ Deliverables:
 - appeal and dispute workflow,
 - minimum rationale requirements.
 
-Current scaffold:
+Current scaffolds:
 
 - [RQ4 review-cadence options scaffold](projects/review-cadence-options/2026-07-02-rq4-review-cadence-options.md) compares candidate cadence lanes and rationale minimums without adopting a review policy.
+- [RQ4 cadence timing comparison](projects/review-cadence-options/2026-07-05-rq4-cadence-timing-comparison.md) compares rolling triage, batch review, and pilot-gated review for the same synthetic contribution without adopting cadence, reviewer authority, appeal rights, or response-time promises.
 
 ### RQ5: Prototype Workflow
 
