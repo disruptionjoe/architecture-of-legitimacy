@@ -217,6 +217,7 @@ The project needs literature and practice reviews across:
 Current prior-art preparation:
 
 - [T9 open-source maintainer governance packet scaffold](projects/prior-art-collision-check/2026-07-06-t9-maintainer-governance-packet-scaffold.md) prepares the T9-PA-05 source slots and review axes for the open-source maintainer governance lane without attaching sources, assigning a collision level, or changing claims, governance, reward meaning, public posture, or contribution records.
+- [T9 Python maintainer-governance source packet](projects/prior-art-collision-check/2026-07-07-t9-python-maintainer-governance-source-packet.md) attaches primary Python governance, pull-request, core-team, and triage sources for the T9-PA-05 lane without assigning a collision level, marking T9 passed, changing claims, adopting governance, or creating reward, retained-value, public-posture, or contribution-record consequences.
 
 ## Research Norms
 
