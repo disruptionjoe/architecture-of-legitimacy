@@ -103,6 +103,16 @@ Current scaffold:
 
 ## Second-Ring Questions
 
+### Second-Ring Synthesis
+
+The second-ring scaffolds should be read as a dependency stack before any
+governance, rights, reward, capture, AI-authority, or transfer decision is
+treated as review-ready.
+
+Current synthesis:
+
+- [Second-ring dependency map](projects/second-ring-synthesis/2026-07-07-second-ring-dependency-map.md) synthesizes existing RQ6-RQ10 and nearby T6/T7/T8/C7 scaffolds into one review-prep map without adopting governance transition, participant rights, reward logic, capture mitigations, AI policy, transfer policy, claim status, public posture, test status, or real contribution records.
+
 ### RQ6: Governance Transition
 
 What milestones justify moving from founder-led governance to more distributed power?
