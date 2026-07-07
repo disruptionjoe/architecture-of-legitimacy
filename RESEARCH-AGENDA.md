@@ -70,6 +70,7 @@ Current scaffolds:
 - [RQ4 review-cadence options scaffold](projects/review-cadence-options/2026-07-02-rq4-review-cadence-options.md) compares candidate cadence lanes and rationale minimums without adopting a review policy.
 - [RQ4 cadence timing comparison](projects/review-cadence-options/2026-07-05-rq4-cadence-timing-comparison.md) compares rolling triage, batch review, and pilot-gated review for the same synthetic contribution without adopting cadence, reviewer authority, appeal rights, or response-time promises.
 - [RQ4 adverse-review contestability boundary](projects/review-cadence-options/2026-07-06-rq4-adverse-review-contestability-boundary.md) pressure-tests what an adverse review record would need to preserve for challenge, rationale, loss notes, and next visible state without adopting an appeal rule, dispute process, reviewer authority, rights policy, or response-time promise.
+- [RQ4 rationale-minimums map](projects/review-cadence-options/2026-07-07-rq4-rationale-minimums-map.md) defines minimum visible rationale by review state without adopting review policy, appeal rights, reviewer authority, response-time promises, governance changes, reward meaning, or real contribution records.
 
 ### RQ5: Prototype Workflow
 
