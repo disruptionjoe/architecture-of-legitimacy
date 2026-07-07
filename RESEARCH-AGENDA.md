@@ -6,6 +6,15 @@ First-ring work should make the repo useful immediately. Second-ring work prepar
 
 ## First-Ring Questions
 
+### First-Ring Synthesis
+
+The first-ring scaffolds should now be read together before another isolated
+workflow map is added.
+
+Current synthesis:
+
+- [First-ring scaffold crosswalk](projects/first-ring-synthesis/2026-07-07-first-ring-scaffold-crosswalk.md) synthesizes existing RQ1-RQ5 and nearby T1/T2/T3/T10/T11 scaffolds into one review-prep map without adopting contribution workflow, review policy, appeal rights, reviewer authority, governance, reward meaning, claim status, public posture, test status, or real contribution records.
+
 ### RQ1: Contributor And Contribution Eligibility
 
 What does open attemptability mean in practice?
