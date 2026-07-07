@@ -86,6 +86,7 @@ Current scaffold:
 
 - [RQ5 prototype-workflow synthesis scaffold](projects/prototype-workflow/2026-07-02-rq5-prototype-workflow-synthesis.md) assembles existing templates, issue forms, log schema, and synthetic workflow traces into a candidate one-page flow without changing active contribution instructions or review policy.
 - [RQ5 workflow handoff gap map](projects/prototype-workflow/2026-07-06-rq5-workflow-handoff-gap-map.md) identifies the remaining handoff checks between proposal, triage, evidence review, governance boundary, review state, loss notes, contestability, and log eligibility without adopting workflow policy or deciding any real contribution.
+- [RQ5 issue-template field-parity check](projects/prototype-workflow/2026-07-06-rq5-issue-template-field-parity.md) compares the Markdown proposal template, GitHub issue forms, and log schema for field drift without changing issue templates, contribution instructions, review policy, or real contribution records.
 - [T3 founder-context dependency map](projects/first-workflow-simulation/2026-07-06-t3-founder-context-dependency-map.md) separates public-context sufficiency, reviewer judgment, and governance-sensitive dependency points in the first workflow simulation without adopting workflow policy or deciding any real contribution.
 
 ## Second-Ring Questions
