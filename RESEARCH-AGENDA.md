@@ -122,6 +122,7 @@ Current scaffold:
 
 - [RQ7 voice, exit, and retained-value boundary map](projects/participant-rights/2026-07-03-rq7-voice-exit-retained-value-boundary-map.md) separates participant-rights, retained-record, retained-value, exit, and dispute-path questions without adopting rights policy, reward promises, appeal rules, governance changes, or real contribution records.
 - [RQ7 exit and contestability pressure map](projects/participant-rights/2026-07-06-rq7-exit-contestability-pressure-map.md) pressure-tests exit, retained-record, identity-change, adverse-review, dispute, and useful-residue cases without adopting rights policy, identity policy, appeal rules, reward promises, governance changes, or real contribution records.
+- [T11 retained-marker boundary](projects/first-contribution-workflow-dry-run/2026-07-06-t11-retained-marker-boundary.md) connects retained-record and retained-value questions to the contribution workflow trace without changing schema, adopting rights or rewards, or deciding any real contribution record.
 
 ### RQ8: Attack And Capture Modeling
 
