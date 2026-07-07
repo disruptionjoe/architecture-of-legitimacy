@@ -36,6 +36,7 @@ Current scaffold:
 
 - [RQ2 contribution-taxonomy review-path map](projects/contribution-taxonomy/2026-07-02-rq2-review-path-map.md) maps current contribution classes to candidate review lanes, intake evidence, first-pass states, and ambiguity checks without adopting taxonomy or review-path policy.
 - [RQ2 contribution-taxonomy boundary-case fixture](projects/contribution-taxonomy/2026-07-06-rq2-boundary-case-fixture.md) pressure-tests ambiguous class boundaries, useful residue, and hidden-policy-movement risks without adopting taxonomy policy, review-path policy, reviewer authority, or real contribution records.
+- [T1 classification-consistency check](projects/contribution-taxonomy/2026-07-06-t1-classification-consistency-check.md) defines how to compare multiple reviewer classifications of the same synthetic samples without marking T1 passed, adopting taxonomy policy, changing reviewer authority, or creating real contribution records.
 
 ### RQ3: Initial Value Rubrics
 
