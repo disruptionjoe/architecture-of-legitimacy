@@ -202,6 +202,7 @@ Current scaffold:
 
 - [RQ10 transfer-conditions scaffold](projects/generalization/2026-07-03-rq10-transfer-conditions-scaffold.md) separates source-repo evidence, target-context fit, failure signals, and review questions without claiming generalization, choosing pilots, or adopting transfer policy.
 - [RQ10 transfer-failure boundary map](projects/generalization/2026-07-06-rq10-transfer-failure-boundary.md) names pause, exclusion, public-language, portability, capture, reward, rights, governance, and external-consequence boundaries before any pilot, transfer policy, or C8 status change can be adopted.
+- [RQ10 target-context evidence map](projects/generalization/2026-07-07-rq10-target-context-evidence-map.md) names context-specific public evidence needs, evidence hazards, portable/local-only screens, and target-packet questions before any transfer pilot, transfer policy, C8 movement, public-posture change, or portability commitment.
 
 ## Prior Art Map Needed
 
