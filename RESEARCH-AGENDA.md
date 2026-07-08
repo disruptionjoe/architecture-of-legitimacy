@@ -185,6 +185,7 @@ Current scaffold:
 
 - [RQ9 reward-readiness boundary map](projects/reward-readiness/2026-07-03-rq9-reward-readiness-boundary-map.md) separates reward alternatives, readiness gates, no-reward baseline, retained-value ambiguity, and capture risks without adopting reward logic, payout formulas, governance weight, claim-status changes, or real contribution records.
 - [RQ9 reward-test boundary scaffold](projects/reward-readiness/2026-07-06-rq9-reward-test-boundary.md) defines the minimum packet a later reward test would need before review, without adopting reward logic, score conversion, payout formulas, retained-value rights, governance weight, public posture, or real contribution-record meaning.
+- [RQ9 no-reward baseline inspection](projects/reward-readiness/2026-07-07-rq9-no-reward-baseline-inspection.md) makes the recognition/rationale/loss-note/contestability control condition inspectable before any reward-test packet, without adopting reward logic, retained-value rights, score conversion, governance weight, public posture, or real contribution-record meaning.
 
 ### RQ10: Generalization
 
