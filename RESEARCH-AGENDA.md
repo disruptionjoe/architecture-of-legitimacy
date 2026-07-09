@@ -225,6 +225,8 @@ Current scaffold:
 - [RQ10 transfer-failure boundary map](projects/generalization/2026-07-06-rq10-transfer-failure-boundary.md) names pause, exclusion, public-language, portability, capture, reward, rights, governance, and external-consequence boundaries before any pilot, transfer policy, or C8 status change can be adopted.
 - [RQ10 target-context evidence map](projects/generalization/2026-07-07-rq10-target-context-evidence-map.md) names context-specific public evidence needs, evidence hazards, portable/local-only screens, and target-packet questions before any transfer pilot, transfer policy, C8 movement, public-posture change, or portability commitment.
 - [RQ10 first-pilot transfer screen](projects/generalization/2026-07-08-rq10-first-pilot-transfer-screen.md) applies the RQ10 transfer boundary to the synthetic first-pilot stack, keeping first-pilot coherence separate from transfer evidence, target selection, C8 movement, transfer policy, public-posture change, portability commitments, and external consequences.
+- [Governance package portability study](projects/governance-package-portability/README.md) frames governance machinery as a generalization case study without recommending a port, copying process into another repo, or changing transfer policy.
+- [Governance package portability evidence boundary](projects/governance-package-portability/02-portability-evidence-boundary.md) names the source facts, observed effects, reviewer inferences, brownfield conflicts, and stop boundaries required before any later portability classification or port plan.
 
 ## Prior Art Map Needed
 

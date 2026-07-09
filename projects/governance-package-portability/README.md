@@ -70,11 +70,24 @@ This list is not yet a portability claim. It is the first inventory target.
 This project will produce:
 
 1. a governance package inventory;
-2. a Temporal Issuance origin study;
-3. an AI-Native Epistemic Systems port review;
-4. a first-pass portability model;
-5. a GU Formalization port plan;
-6. open questions and kill criteria for the portability thesis.
+2. a portability evidence-boundary map;
+3. a Temporal Issuance origin study;
+4. an AI-Native Epistemic Systems port review;
+5. a first-pass portability model;
+6. a GU Formalization port plan;
+7. open questions and kill criteria for the portability thesis.
+
+## Current Artifacts
+
+- [Initial scoping note](00-initial-scoping-note.md) locates the study and
+  names the origin, greenfield-transfer, and brownfield candidate surfaces to
+  inspect later without proposing a port.
+- [Governance package inventory frame](01-governance-package-inventory.md)
+  names candidate component classes, evidence fields, portability classes, and
+  failure signals without assigning a verdict.
+- [Portability evidence boundary](02-portability-evidence-boundary.md)
+  separates source facts, observed effects, reviewer inference, brownfield
+  conflicts, and stop boundaries before any later portability classification.
 
 ## Success And Failure
 
