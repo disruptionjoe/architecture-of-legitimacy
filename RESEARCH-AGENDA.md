@@ -10,9 +10,10 @@ Some scaffolds cut across first-ring and second-ring work. They should be read
 as claim-supporting review prep, not as claim movement, test movement, policy,
 or public posture.
 
-Current scaffold:
+Current scaffolds:
 
 - [C2 first-pilot coupling review bridge](projects/coupled-stack-dependency/2026-07-09-c2-first-pilot-coupling-review-bridge.md) connects the first-ring review-prep bundle and second-ring stop stack back to C2's coupled-stack proof burden without changing C2 status, marking tests passed, launching a pilot, selecting targets or reviewers, adopting policy, changing public posture, or creating live contribution records.
+- [First-pilot governed-review handoff](projects/pilot-review-readiness/2026-07-09-first-pilot-governed-review-handoff.md) translates the current review-prep stack into review-entry gates and a safe handoff shape without launching a pilot, selecting a target, filling a packet, appointing reviewers, changing claim or test status, adopting policy, changing public posture, or creating live contribution records.
 
 ## First-Ring Questions
 
@@ -129,6 +130,7 @@ Current scaffold:
 - [RQ5 source-trace revision packet checklist](projects/prototype-workflow/2026-07-09-rq5-source-trace-revision-packet-checklist.md) turns the field audit into a bounded `needs_revision` handoff for a later source-trace revision packet without selecting a target, source lane, live surface, reviewer authority, policy, claim status, public posture, rights, reward, governance, transfer, or contribution-record action.
 - [RQ5 source-trace revision state map](projects/prototype-workflow/2026-07-09-rq5-source-trace-revision-state-map.md) separates revision-packet field completeness from governed review, log eligibility, reward, rights, governance, transfer, public posture, claim status, and test status without filling a live packet or selecting a target/source lane.
 - [RQ5 review-prep bundle map](projects/prototype-workflow/2026-07-09-rq5-review-prep-bundle-map.md) orders the first-ring, readiness, source-trace gate, field audit, revision checklist, and revision state-map artifacts as one governed-review-prep bundle without selecting a target, filling a packet, launching review, changing public posture, or creating contribution-record meaning.
+- [First-pilot governed-review handoff](projects/pilot-review-readiness/2026-07-09-first-pilot-governed-review-handoff.md) names the review-entry gates for target, source trace, record surface, reviewer authority, log eligibility, C2 coupling, second-ring stops, and public posture without selecting or opening any live review surface.
 - [RQ10 first-pilot transfer screen](projects/generalization/2026-07-08-rq10-first-pilot-transfer-screen.md) applies transfer-condition, failure-boundary, target-context, and second-ring screens to the synthetic first-pilot packet without claiming generalization, choosing a target context, changing C8, adopting transfer policy, changing public posture, or creating external commitments.
 - [RQ10 first-pilot component inventory](projects/generalization/2026-07-09-rq10-first-pilot-component-inventory.md) classifies pieces of the synthetic first-pilot stack as `portable_candidate`, `adaptable`, `local_only`, or `unknown` for later transfer review without claiming portability, choosing a target, changing C8, changing public posture, or exporting governance machinery.
 - [RQ10 first-pilot transfer-risk triage](projects/generalization/2026-07-09-rq10-first-pilot-transfer-risk-triage.md) turns the transfer screen and component inventory into source-trace, target-packet, second-ring, public-language, and governed-review blockers without choosing a target, claiming portability, changing C8, changing public posture, or exporting governance machinery.
