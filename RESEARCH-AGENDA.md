@@ -140,6 +140,7 @@ treated as review-ready.
 Current synthesis:
 
 - [Second-ring dependency map](projects/second-ring-synthesis/2026-07-07-second-ring-dependency-map.md) synthesizes existing RQ6-RQ10 and nearby T6/T7/T8/C7 scaffolds into one review-prep map without adopting governance transition, participant rights, reward logic, capture mitigations, AI policy, transfer policy, claim status, public posture, test status, or real contribution records.
+- [Second-ring first-pilot stop stack](projects/second-ring-synthesis/2026-07-09-second-ring-first-pilot-stop-stack.md) consolidates the current governance, rights, capture, AI, reward, and transfer stop ledgers into one non-adopted read order and stop-label handoff without launching a pilot, selecting targets or reviewers, adopting policy, changing public posture, marking tests passed, or creating live records.
 
 ### C7/T8: AI Role Boundary
 
