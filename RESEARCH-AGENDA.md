@@ -193,6 +193,7 @@ Current scaffold:
 - [RQ8 capture threshold map](projects/attack-profitability/2026-07-06-rq8-capture-threshold-map.md) separates local workflow-repair responses from governance-, reward-, rights-, disclosure-, sanction-, and public-posture escalation boundaries without adopting mitigation policy or changing claim status.
 - [T6 detection evidence map](projects/attack-surface-map/2026-07-06-t6-detection-evidence-map.md) separates observable evidence, inference, false-positive hazards, and escalation thresholds for attack-surface review without adopting monitoring policy, changing governance, or marking T6/RQ8 complete.
 - [RQ8 first-pilot capture screen](projects/attack-profitability/2026-07-07-rq8-first-pilot-capture-screen.md) applies capture, conflict, AI-volume, source-trace, record-use, and public-posture screens to the synthetic first-pilot packet without launching a pilot, adopting mitigations, requiring disclosures, defining sanctions, changing eligibility, changing reviewer authority, or marking T6/RQ8 complete.
+- [RQ8 first-pilot capture-escalation ledger](projects/attack-profitability/2026-07-09-rq8-first-pilot-capture-escalation-ledger.md) sorts first-pilot capture concerns into local-prep repairs, source-trace blockers, benign-explanation holds, governed-response stops, and do-not-use-live states without adopting mitigations, requiring disclosures, defining sanctions, changing reviewer authority, or changing public posture.
 
 ### RQ9: Reward Logic
 
