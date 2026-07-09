@@ -140,6 +140,18 @@ Current synthesis:
 
 - [Second-ring dependency map](projects/second-ring-synthesis/2026-07-07-second-ring-dependency-map.md) synthesizes existing RQ6-RQ10 and nearby T6/T7/T8/C7 scaffolds into one review-prep map without adopting governance transition, participant rights, reward logic, capture mitigations, AI policy, transfer policy, claim status, public posture, test status, or real contribution records.
 
+### C7/T8: AI Role Boundary
+
+How can AI support review without becoming opaque authority?
+
+Current scaffold:
+
+- [T8 AI role boundary fixture](projects/ai-role-boundary/2026-07-02-t8-ai-role-boundary-fixture.md) pressure-tests allowed AI support, conditional assistance, disallowed authority, and adversarial AI patterns in review without changing AI policy or marking T8 passed.
+- [C7/T8 AI-assisted review trace checklist](projects/ai-role-boundary/2026-07-03-c7-ai-assisted-review-trace-checklist.md) prepares the minimum trace a later AI-assisted review would need before treating support as visible, contestable, human-owned, and source-checkable without changing AI policy, reviewer authority, or live procedure.
+- [C7/T8 AI authority failure map](projects/ai-role-boundary/2026-07-06-c7-t8-ai-authority-failure-map.md) pressure-tests hidden AI authority, evidence laundering, reviewer abdication, synthetic consensus, and contestability failures without changing AI policy, reviewer authority, claim status, public posture, test status, or real contribution records.
+- [C7/T8 AI-assisted review dry-run trace](projects/ai-role-boundary/2026-07-07-c7-ai-assisted-review-dry-run-trace.md) applies the checklist and failure map to the synthetic RQ5 first-pilot packet without changing AI policy, contribution policy, reviewer authority, claim status, public posture, test status, or real contribution records.
+- [C7/T8 first-pilot AI-boundary ledger](projects/ai-role-boundary/2026-07-09-c7-t8-first-pilot-ai-boundary-ledger.md) sorts first-pilot AI concerns into local trace repair, source-trace missing, AI capture review, governed AI review, and do-not-use-live states without adopting AI policy, assigning reviewer authority, requiring disclosures, changing public posture, or creating live records.
+
 ### RQ6: Governance Transition
 
 What milestones justify moving from founder-led governance to more distributed power?
