@@ -4,6 +4,16 @@ The agenda is split into first-ring work and second-ring work.
 
 First-ring work should make the repo useful immediately. Second-ring work prepares the path toward reward, capture resistance, and governance transition.
 
+## Cross-Ring Coupling
+
+Some scaffolds cut across first-ring and second-ring work. They should be read
+as claim-supporting review prep, not as claim movement, test movement, policy,
+or public posture.
+
+Current scaffold:
+
+- [C2 first-pilot coupling review bridge](projects/coupled-stack-dependency/2026-07-09-c2-first-pilot-coupling-review-bridge.md) connects the first-ring review-prep bundle and second-ring stop stack back to C2's coupled-stack proof burden without changing C2 status, marking tests passed, launching a pilot, selecting targets or reviewers, adopting policy, changing public posture, or creating live contribution records.
+
 ## First-Ring Questions
 
 ### First-Ring Synthesis
