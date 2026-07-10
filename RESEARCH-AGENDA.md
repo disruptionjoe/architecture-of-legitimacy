@@ -27,6 +27,7 @@ workflow map is added.
 Current synthesis:
 
 - [First-ring scaffold crosswalk](projects/first-ring-synthesis/2026-07-07-first-ring-scaffold-crosswalk.md) synthesizes existing RQ1-RQ5 and nearby T1/T2/T3/T10/T11 scaffolds into one review-prep map without adopting contribution workflow, review policy, appeal rights, reviewer authority, governance, reward meaning, claim status, public posture, test status, or real contribution records.
+- [First-ring review-prep delta map](projects/first-ring-synthesis/2026-07-09-first-ring-review-prep-delta-map.md) updates the July 7 crosswalk against later first-pilot source-trace, review-question, RQ2 class-boundary, value, reviewer-capacity, and diagnostic-residue artifacts without launching review, filling a packet, adopting policy, changing public posture, moving claims or tests, or creating live contribution records.
 
 ### RQ1: Contributor And Contribution Eligibility
 
