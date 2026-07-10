@@ -60,6 +60,7 @@ Current scaffold:
 - [RQ2 contribution-taxonomy boundary-case fixture](projects/contribution-taxonomy/2026-07-06-rq2-boundary-case-fixture.md) pressure-tests ambiguous class boundaries, useful residue, and hidden-policy-movement risks without adopting taxonomy policy, review-path policy, reviewer authority, or real contribution records.
 - [T1 classification-consistency check](projects/contribution-taxonomy/2026-07-06-t1-classification-consistency-check.md) defines how to compare multiple reviewer classifications of the same synthetic samples without marking T1 passed, adopting taxonomy policy, changing reviewer authority, or creating real contribution records.
 - [RQ2 first-pilot class/evidence screen](projects/contribution-taxonomy/2026-07-08-rq2-first-pilot-class-evidence-screen.md) applies contribution-class, evidence-minimum, disagreement, useful-residue, and taxonomy-boundary screens to the synthetic first-pilot packet without adopting taxonomy policy, changing review paths, editing standards, or creating real contribution records.
+- [RQ2 first-pilot class-boundary disagreement ledger](projects/contribution-taxonomy/2026-07-09-rq2-first-pilot-class-boundary-ledger.md) names the class-boundary disagreement labels a later governed review must keep visible without adopting taxonomy policy, changing review paths, assigning reviewer authority, editing standards, or creating live records.
 
 ### RQ3: Initial Value Rubrics
 
