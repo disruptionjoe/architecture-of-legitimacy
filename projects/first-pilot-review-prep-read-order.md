@@ -70,10 +70,10 @@ reward states, sanctions, transfer findings, or public workflow terms.
 ## Map Coverage Note
 
 Most active project directories now have local README maps. The
-`value-rubric-dry-run/` and `toy-payoff-model/` directories remain artifact-led
-lanes without local README maps; use their rows in [TESTS.md](../TESTS.md) and
-their linked artifacts directly when this read order reaches them. This note is
-not a requirement to add those README maps before governed review.
+`value-rubric-dry-run/` directory remains an artifact-led lane without a local
+README map; use its row in [TESTS.md](../TESTS.md) and its linked artifacts
+directly when this read order reaches it. This note is not a requirement to add
+that README map before governed review.
 
 ## Stop Conditions
 
