@@ -14,6 +14,14 @@ canon verdicts, contribution standards, contribution records, governance,
 rights, rewards, AI policy, transfer posture, public posture, or live-review
 state.
 
+## Current Consolidation
+
+For a single read order across the current review-prep stack, start with the
+[first-pilot review-prep read order](first-pilot-review-prep-read-order.md).
+It consolidates the existing project maps and restates the live-use stops; it
+is not review authorization, policy adoption, claim movement, or public-posture
+movement.
+
 ## Main Review Maps
 
 Use these when reading the current first-pilot review-prep stack across many
