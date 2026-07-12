@@ -88,6 +88,9 @@ This project will produce:
 - [Portability evidence boundary](02-portability-evidence-boundary.md)
   separates source facts, observed effects, reviewer inference, brownfield
   conflicts, and stop boundaries before any later portability classification.
+- [Process-drag check](03-process-drag-check.md) defines how later review
+  should distinguish legitimacy gain from ceremony, stale surfaces, duplicate
+  authority, or attention tax before any portability classification.
 
 ## Success And Failure
 
