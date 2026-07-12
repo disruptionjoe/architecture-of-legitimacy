@@ -288,6 +288,7 @@ Current scaffold:
 - [Governance package portability study](projects/governance-package-portability/README.md) frames governance machinery as a generalization case study without recommending a port, copying process into another repo, or changing transfer policy.
 - [Governance package portability evidence boundary](projects/governance-package-portability/02-portability-evidence-boundary.md) names the source facts, observed effects, reviewer inferences, brownfield conflicts, and stop boundaries required before any later portability classification or port plan.
 - [Governance package process-drag check](projects/governance-package-portability/03-process-drag-check.md) names how later portability review should distinguish legitimacy gain from ceremony, duplicate authority, stale surfaces, and attention tax without classifying components, choosing targets, changing C8, or exporting governance machinery.
+- [Governance package do-not-port signal register](projects/governance-package-portability/04-do-not-port-signal-register.md) names signals that should make later portability review defer, reject, thin, or remove a component before any classification, target selection, C8 movement, or governance-package export.
 
 ## Prior Art Map Needed
 

@@ -75,7 +75,8 @@ This project will produce:
 4. an AI-Native Epistemic Systems port review;
 5. a first-pass portability model;
 6. a GU Formalization port plan;
-7. open questions and kill criteria for the portability thesis.
+7. do-not-port signal and kill criteria for the portability thesis;
+8. open questions for the portability thesis.
 
 ## Current Artifacts
 
@@ -91,6 +92,9 @@ This project will produce:
 - [Process-drag check](03-process-drag-check.md) defines how later review
   should distinguish legitimacy gain from ceremony, stale surfaces, duplicate
   authority, or attention tax before any portability classification.
+- [Do-not-port signal register](04-do-not-port-signal-register.md) names
+  signals that should make later review defer, reject, thin, or remove a
+  component before any portability classification.
 
 ## Success And Failure
 
