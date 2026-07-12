@@ -69,11 +69,10 @@ reward states, sanctions, transfer findings, or public workflow terms.
 
 ## Map Coverage Note
 
-Most active project directories now have local README maps. The
-`value-rubric-dry-run/` directory remains an artifact-led lane without a local
-README map; use its row in [TESTS.md](../TESTS.md) and its linked artifacts
-directly when this read order reaches it. This note is not a requirement to add
-that README map before governed review.
+Active project directories now have local README maps. Use those local maps as
+navigation surfaces only; they do not authorize live review, claim or test
+movement, policy adoption, public-posture movement, or contribution-record
+creation.
 
 ## Stop Conditions
 
