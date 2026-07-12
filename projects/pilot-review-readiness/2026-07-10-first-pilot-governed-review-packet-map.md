@@ -31,19 +31,20 @@ test_status_change_requested: false
 # First-Pilot Governed-Review Packet Map
 
 Status: draft review-prep packet assembly map, not adopted workflow, review,
-record-surface, reviewer-authority, eligibility, disclosure, governance,
-rights, reward, capture-response, sanction, AI-use, transfer, public-posture,
-claim-status, test-status, or contribution-record policy.
+record-surface, reviewer-authority, construction verdict, eligibility,
+disclosure, governance, rights, reward, capture-response, sanction, AI-use,
+transfer, public-posture, claim-status, test-status, or contribution-record
+policy.
 
 This map assembles the existing first-pilot review-prep stack into packet
 sections a later Joe or governed review could inspect. It does not launch
 review, choose a target, fill a source packet, select a source lane, appoint a
 reviewer, open an issue or pull request, choose a live record surface, edit
 templates, edit standards, create a contribution-log entry, assign prior-art
-collision levels, make a novelty verdict, score a contribution, grant rights,
-create reward meaning, adopt governance, require disclosure, define sanctions,
-select AI tools, claim transfer, change public posture, move claims or tests,
-or decide any real contribution.
+collision levels, settle a construction fork, make a novelty verdict, score a
+contribution, grant rights, create reward meaning, adopt governance, require
+disclosure, define sanctions, select AI tools, claim transfer, change public
+posture, move claims or tests, or decide any real contribution.
 
 ## Purpose
 
@@ -68,6 +69,8 @@ future governed review without creating the review or selecting any live facts.
 - `projects/first-ring-synthesis/2026-07-09-first-ring-review-prep-delta-map.md`
 - `projects/prototype-workflow/2026-07-08-rq5-first-pilot-readiness-synthesis.md`
 - `projects/prototype-workflow/2026-07-09-rq5-review-prep-bundle-map.md`
+- `projects/pilot-review-readiness/2026-07-12-first-pilot-construction-fork-table.md`
+- `projects/pilot-review-readiness/2026-07-12-first-pilot-review-question-construction-fork-addendum.md`
 - `projects/second-ring-synthesis/2026-07-09-second-ring-first-pilot-stop-stack.md`
 - `projects/coupled-stack-dependency/2026-07-09-c2-first-pilot-coupling-review-bridge.md`
 
@@ -84,6 +87,8 @@ current_packet: SAMPLE-RQ5-PACKET-001
 live_review_ready: false
 target: none_selected
 source_trace_state: source_trace_still_missing
+construction_fork_state: candidate_forks_visible_not_settled
+construction_question_state: fork_questions_visible_not_settled
 record_surface: none_selected
 review_authority: none_assigned
 live_log_entry: none
@@ -108,6 +113,7 @@ results, claim verdicts, transfer states, or public workflow terms.
 | RQ5 source-trace bundle | RQ5 review-prep bundle map | Source-trace read order, missing-field firewall, and revision-state boundary. | Target selection, source-lane choice, packet filling, source-packet upgrade, or prior-art verdict. |
 | Packet readiness ledger | RQ5 readiness synthesis | What the synthetic stack makes ready for governed review-prep conversation. | Pilot readiness, live use, contribution invitation, template edit, reviewer authority, or test movement. |
 | Review-question index | Review-question register | The unresolved questions that must stay visible before live movement. | Scoring, sanctioning, monitoring, reward, capture response, public-language movement, or live record creation. |
+| Construction-choice appendix | Construction-fork table and construction-fork question addendum | Load-bearing terms, candidate construction choices, unresolved alternatives, and protected boundaries. | Construction verdicts, live review, packet filling, reviewer authority, policy adoption, claim/test movement, rights, reward, governance, AI authority, transfer, public posture, or live records. |
 | C2 coupling appendix | C2 first-pilot coupling review bridge | Where isolated-layer readings could mislead C2 review. | C2 validation, claim movement, proof, policy adoption, or contribution decision. |
 | Second-ring stop appendix | Second-ring first-pilot stop stack | Governance, rights, capture, AI, reward, transfer, and public-language stop order. | Clearing stops, adopting governance/rights/reward/AI/capture/transfer policy, defining sanctions, or changing public posture. |
 | Packet boundary note | This map | Which sections belong together and which live decisions remain absent. | Treating assembly as authorization, decision, claim support, test result, or public process. |
@@ -142,6 +148,10 @@ readiness_ledger:
 review_questions:
   source: projects/pilot-review-readiness/2026-07-09-first-pilot-review-question-register.md
   required_state: unresolved_questions_visible
+construction_choice_appendix:
+  source: projects/pilot-review-readiness/2026-07-12-first-pilot-construction-fork-table.md
+  addendum: projects/pilot-review-readiness/2026-07-12-first-pilot-review-question-construction-fork-addendum.md
+  required_state: candidate_forks_visible_not_settled
 c2_appendix:
   source: projects/coupled-stack-dependency/2026-07-09-c2-first-pilot-coupling-review-bridge.md
   required_state: coupling_pressure_visible_not_validated
@@ -151,8 +161,9 @@ second_ring_appendix:
 protected_boundary: >
   This packet is an assembly of review-prep artifacts only. It does not select
   a target, fill a packet, appoint a reviewer, open a live surface, create a
-  log entry, score, reward, sanction, monitor, govern, transfer, move claims
-  or tests, alter public posture, or decide any real contribution.
+  log entry, settle constructions, score, reward, sanction, monitor, govern,
+  transfer, move claims or tests, alter public posture, or decide any real
+  contribution.
 ```
 
 If a future packet cannot cite a source artifact for a section, the section
@@ -169,6 +180,7 @@ AI summary, or implied authority.
 | Source-trace bundle | Preserve the source-trace read order and field-completeness boundary. | Filling target/source fields, choosing a source lane, or making prior-art conclusions. |
 | Readiness ledger | Explain why the stack is review-prep-ready but not pilot-ready. | Calling the packet live-review-ready or public-ready. |
 | Review-question index | Keep unresolved questions visible for governed review. | Clearing questions, appointing owners, defining sanctions, or changing public posture. |
+| Construction-choice appendix | Keep construction choices, reasons, alternatives, and protected boundaries visible for each load-bearing term. | Settling forks, using defaults silently, filling packets, launching review, appointing authority, or changing policy/status. |
 | C2 appendix | Show where the first-pilot stack pressures the coupled-stack claim. | Marking C2 stronger, weaker, passed, failed, or proven. |
 | Second-ring appendix | Keep governance, rights, capture, AI, reward, transfer, and public-language stops in order. | Clearing or adopting any second-ring policy or live-use consequence. |
 
@@ -181,10 +193,13 @@ source artifact should support it.
 The local value is assembly, not movement:
 
 1. The packet cover and appendices are now distinguishable.
-2. The first-ring and second-ring materials have a shared packet order.
-3. A future reviewer can see which section is missing rather than treating the
+2. The construction-choice appendix has a visible place after unresolved
+   review questions and before coupled-stack or second-ring readings.
+3. The first-ring and second-ring materials have a shared packet order.
+4. A future reviewer can see which section is missing rather than treating the
    whole stack as either ready or blocked.
-4. No section becomes a live decision, review state, claim result, test result,
+5. No section becomes a live decision, review state, construction verdict,
+   claim result, test result,
    contribution state, rights state, reward state, sanction, governance rule,
    transfer claim, or public posture.
 
@@ -194,11 +209,11 @@ This map supports one local conclusion:
 
 ```text
 The first-pilot stack can now be assembled as a draft governed-review packet,
-but the assembled packet remains review-prep only and stops before target
-selection, source filling, live record creation, reviewer authority, claim/test
-movement, governance, eligibility, disclosure, rights, reward, sanction,
-capture response, AI policy, transfer, public posture, or real contribution
-meaning.
+including a construction-choice appendix, but the assembled packet remains
+review-prep only and stops before target selection, source filling, live record
+creation, reviewer authority, construction verdicts, claim/test movement,
+governance, eligibility, disclosure, rights, reward, sanction, capture
+response, AI policy, transfer, public posture, or real contribution meaning.
 ```
 
 That conclusion does not authorize the packet to be filled, submitted,
@@ -208,6 +223,7 @@ published as process, or used as public contribution instructions.
 ## Boundary Notes
 
 - No real contributor is represented here.
+- No construction fork was settled.
 - No real contribution was submitted, accepted, revised, rejected, contested,
   scored, logged, labeled, monitored, sanctioned, rewarded, or used as transfer
   evidence.
@@ -219,10 +235,10 @@ published as process, or used as public contribution instructions.
   sanction rule, transfer target, public audience, or governance phase was
   created or selected.
 - No contribution class, review path, eligibility rule, disclosure duty,
-  prior-art collision verdict, novelty judgment, source-packet upgrade,
-  claim-status movement, test pass/fail movement, review policy, rights policy,
-  reward meaning, governance rule, capture mitigation, monitoring rule,
-  sanction, AI-use policy, transfer policy, public posture, or external action
-  changed.
+  construction verdict, prior-art collision verdict, novelty judgment,
+  source-packet upgrade, claim-status movement, test pass/fail movement, review
+  policy, rights policy, reward meaning, governance rule, capture mitigation,
+  monitoring rule, sanction, AI-use policy, transfer policy, public posture, or
+  external action changed.
 - This is a draft packet assembly map for later governed review preparation,
   not active contribution workflow policy.
