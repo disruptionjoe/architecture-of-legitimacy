@@ -5,8 +5,9 @@ Status: navigation surface map.
 ## Purpose
 
 This directory contains non-adopted T9 prior-art review-prep scaffolds for
-source packets, neighboring-system comparison, adverse-path evidence, retained
-record/value separation, and first-pilot prior-art gaps.
+source packets, neighboring-system comparison, process-path traces,
+adverse-path evidence, retained record/value separation, and first-pilot
+prior-art gaps.
 
 This map is navigation only. It does not add external sources, select a source
 lane, upgrade source packets, assign collision levels, make novelty verdicts,
@@ -33,11 +34,12 @@ Use this order when trying to understand the current T9 lane.
 | 11 | [PLOS ONE process-path trace](2026-07-05-t9-peer-review-plos-one-process-path-trace.md) | Concrete academic peer-review process-path trace from existing packet material. | No live manuscript case, collision level, novelty judgment, reward, rights, governance, or contribution-record movement. |
 | 12 | [Maintainer-governance packet scaffold](2026-07-06-t9-maintainer-governance-packet-scaffold.md) | Open-source maintainer-governance lane setup before source-backed packet completion. | No external source claim, maintainer-authority adoption, governance rule, role policy, or public-posture movement. |
 | 13 | [Python maintainer-governance source packet](2026-07-07-t9-python-maintainer-governance-source-packet.md) | Prepared open-source maintainer-governance packet for PR/issue review, team authority, and BDFL-to-council transition pressure. | No collision level, novelty judgment, maintainer-authority model, governance adoption, reward, or public-posture movement. |
-| 14 | [Commons-governance source packet](2026-07-07-t9-commons-governance-source-packet.md) | Prepared institutional-design packet for participant boundaries, rule modification, monitoring, sanctions, conflict resolution, and nested governance pressure. | No collision level, novelty judgment, commons-governance adoption, rights, sanctions, governance, or public-posture movement. |
-| 15 | [T9 second-wave cross-packet synthesis](2026-07-07-t9-second-wave-cross-packet-synthesis.md) | Six-packet synthesis after the Python and commons-governance packets. | No source-packet upgrade, collision verdict, novelty judgment, claim movement, or test movement. |
-| 16 | [T9 adverse-path evidence queue](2026-07-07-t9-adverse-path-evidence-queue.md) | Ordered evidence needs for adverse, rejected, delayed, under-valued, and retained-record paths. | No case selection, source addition, collision level, contribution-record action, rights, reward, governance, or public-posture movement. |
-| 17 | [T9 first-pilot prior-art screen](2026-07-08-t9-first-pilot-prior-art-screen.md) | Review-prep screen for whether a first-pilot prior-art note is locally plausible but blocked from live use. | No live prior-art review, target selection, source-lane choice, source-trace fill, collision level, novelty verdict, claim/test movement, or live-record action. |
-| 18 | [T9 first-pilot prior-art gap ledger](2026-07-10-t9-first-pilot-prior-art-gap-ledger.md) | Gap labels for source lane, source trace, adverse path, mechanism scope, source/inference split, collision boundary, and live-use blocks. | No source-lane selection, source-packet upgrade, collision level, novelty verdict, public-posture movement, or contribution-record action. |
+| 14 | [Python maintainer-governance process-path trace](2026-07-12-t9-python-maintainer-process-path-trace.md) | Process-path trace for Python contribution review, triage, role recognition, and BDFL-to-council transition from existing packet material. | No real PR/issue selection, external source addition, collision level, novelty judgment, governance adoption, reward, or contribution-record movement. |
+| 15 | [Commons-governance source packet](2026-07-07-t9-commons-governance-source-packet.md) | Prepared institutional-design packet for participant boundaries, rule modification, monitoring, sanctions, conflict resolution, and nested governance pressure. | No collision level, novelty judgment, commons-governance adoption, rights, sanctions, governance, or public-posture movement. |
+| 16 | [T9 second-wave cross-packet synthesis](2026-07-07-t9-second-wave-cross-packet-synthesis.md) | Six-packet synthesis after the Python and commons-governance packets. | No source-packet upgrade, collision verdict, novelty judgment, claim movement, or test movement. |
+| 17 | [T9 adverse-path evidence queue](2026-07-07-t9-adverse-path-evidence-queue.md) | Ordered evidence needs for adverse, rejected, delayed, under-valued, and retained-record paths. | No case selection, source addition, collision level, contribution-record action, rights, reward, governance, or public-posture movement. |
+| 18 | [T9 first-pilot prior-art screen](2026-07-08-t9-first-pilot-prior-art-screen.md) | Review-prep screen for whether a first-pilot prior-art note is locally plausible but blocked from live use. | No live prior-art review, target selection, source-lane choice, source-trace fill, collision level, novelty verdict, claim/test movement, or live-record action. |
+| 19 | [T9 first-pilot prior-art gap ledger](2026-07-10-t9-first-pilot-prior-art-gap-ledger.md) | Gap labels for source lane, source trace, adverse path, mechanism scope, source/inference split, collision boundary, and live-use blocks. | No source-lane selection, source-packet upgrade, collision level, novelty verdict, public-posture movement, or contribution-record action. |
 
 ## Current Lane State
 
@@ -54,6 +56,7 @@ prepared_source_packets:
   - commons_governance
 synthesis_surfaces: available
 adverse_path_surfaces: available
+python_process_path_trace: available
 first_pilot_gap_ledger: available
 source_lane_selected: false
 external_sources_added_by_this_map: false
