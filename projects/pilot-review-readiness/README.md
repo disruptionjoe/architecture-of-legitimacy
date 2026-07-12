@@ -27,6 +27,7 @@ readiness lane without treating the lane as active process.
 | 3 | [First-pilot review-question RQ2 addendum](2026-07-09-first-pilot-review-question-rq2-addendum.md) | Contribution-class disagreement question attached to the review-question stack. | No taxonomy adoption, review-path change, standards edit, reviewer-authority assignment, or live classification. |
 | 4 | [First-pilot answerability map](2026-07-10-first-pilot-answerability-map.md) | Which questions are locally answerable, field-missing, governed, protected, or not live usable. | No missing-field filling, owner assignment, protected-state movement, or policy/status decision. |
 | 5 | [First-pilot governed-review packet map](2026-07-10-first-pilot-governed-review-packet-map.md) | Draft packet section order and source-artifact support for a later governed-review packet. | No assembled-packet authorization, review launch, record creation, claim/test movement, or contribution decision. |
+| 6 | [First-pilot construction-fork table](2026-07-12-first-pilot-construction-fork-table.md) | Candidate construction forks for load-bearing first-pilot terms. | No settled construction choice, policy movement, claim/test movement, live review, or public-posture movement. |
 
 ## Current Lane State
 
@@ -42,6 +43,7 @@ record_surface: none_selected
 review_authority: none_assigned
 live_log_entry: none
 reward_state: no_current_reward
+construction_fork_state: candidate_forks_visible_not_settled
 transfer_state: horizon_only
 public_posture: unchanged
 ```
@@ -55,8 +57,9 @@ reward states, sanctions, transfer findings, or public workflow terms.
 Read the handoff first to understand the closed gates. Then use the question
 register and RQ2 addendum to see which questions must stay visible. Use the
 answerability map to distinguish local answers from missing fields and governed
-decisions. Use the packet map last, because packet assembly is helpful only
-after the closed gates and missing fields are visible.
+decisions. Use the packet map before the construction-fork table, because the
+fork table is useful only after the packet sections and protected meanings are
+visible.
 
 The most important local distinction is:
 

@@ -31,7 +31,7 @@ lanes.
 |---|---|---|
 | [first-ring-synthesis](first-ring-synthesis/) | Crosswalk and delta map for RQ1-RQ5 and nearby workflow/log scaffolds. | No workflow, review-policy, claim, test, or live-record movement. |
 | [second-ring-synthesis](second-ring-synthesis/) | Dependency and stop-stack maps for governance, rights, capture, AI, reward, and transfer lanes. | No governance transition, rights, reward, AI, capture, transfer, or public-posture movement. |
-| [pilot-review-readiness](pilot-review-readiness/) | Governed-review handoff, question register, answerability map, and packet-map surfaces. | No pilot launch, target selection, reviewer appointment, live surface choice, or contribution-record movement. |
+| [pilot-review-readiness](pilot-review-readiness/) | Governed-review handoff, question register, answerability map, packet-map, and construction-fork surfaces. | No pilot launch, target selection, reviewer appointment, construction verdict, live surface choice, or contribution-record movement. |
 
 ## First-Ring Contribution Lanes
 
