@@ -290,6 +290,7 @@ Current scaffold:
 - [Governance package process-drag check](projects/governance-package-portability/03-process-drag-check.md) names how later portability review should distinguish legitimacy gain from ceremony, duplicate authority, stale surfaces, and attention tax without classifying components, choosing targets, changing C8, or exporting governance machinery.
 - [Governance package do-not-port signal register](projects/governance-package-portability/04-do-not-port-signal-register.md) names signals that should make later portability review defer, reject, thin, or remove a component before any classification, target selection, C8 movement, or governance-package export.
 - [Governance package source-evidence publication gate](projects/governance-package-portability/05-source-evidence-publication-gate.md) separates public-citable source facts from private, internal, sensitive, or reusable-governance/process detail before any later evidence packet, without publishing source-repo detail, classifying components, changing C8, or exporting governance machinery.
+- [Governance package origin-function evidence packet shell](projects/governance-package-portability/06-origin-function-evidence-packet-shell.md) gives run records and closeout, claim ledger/status vocabulary, and kill criteria/path-kill records a blank source-gated packet shape without filling origin facts, assigning observed effects, classifying components, changing C8, or exporting governance machinery.
 
 ## Prior Art Map Needed
 

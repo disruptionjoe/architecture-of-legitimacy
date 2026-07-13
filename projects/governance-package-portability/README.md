@@ -98,6 +98,10 @@ This project will produce:
 - [Source-evidence publication gate](05-source-evidence-publication-gate.md)
   separates public-citable source facts from private, internal, sensitive, or
   reusable-governance/process detail before any later evidence packet.
+- [Origin-function evidence packet shell](06-origin-function-evidence-packet-shell.md)
+  gives the first three candidate components a blank, publication-gated packet
+  shape before any source facts, observed effects, or component classifications
+  are filled.
 
 ## Success And Failure
 
