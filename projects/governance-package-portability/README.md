@@ -107,6 +107,11 @@ This project will produce:
   packet shape for later changed, stable, broken, or stale transfer evidence
   before any source facts, adaptation outcomes, or component classifications are
   filled.
+- [Brownfield-conflict evidence packet shell](08-brownfield-conflict-evidence-packet-shell.md)
+  gives the same first three candidate components a blank, publication-gated
+  packet shape for later native-surface overlap, duplicate-authority,
+  process-drag, and target-fit conflict review before any brownfield facts,
+  component classifications, or port recommendations are filled.
 
 ## Success And Failure
 
