@@ -76,7 +76,7 @@ This project will produce:
 5. a first-pass portability model;
 6. a GU Formalization port plan;
 7. do-not-port signal and kill criteria for the portability thesis;
-8. open questions for the portability thesis.
+8. review questions and open questions for the portability thesis.
 
 ## Current Artifacts
 
@@ -116,6 +116,12 @@ This project will produce:
   publication gate and three unfilled packet shells into a safe fill sequence,
   keeping the study shape-ready but not evidence-ready, classification-ready,
   target-ready, or export-ready.
+- [Review-question register](10-review-question-register.md) collects the
+  unresolved source-visibility, origin-function, transfer-behavior,
+  brownfield-conflict, process-drag, do-not-port, classification, target, and
+  public-language questions a later governed source-use pass must preserve
+  before any evidence filling, component classification, target selection, or
+  portability/public-language movement.
 
 ## Success And Failure
 
