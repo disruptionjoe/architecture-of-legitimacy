@@ -37,6 +37,7 @@ Use this order when trying to understand the current T9 lane.
 | 14 | [Python maintainer-governance process-path trace](2026-07-12-t9-python-maintainer-process-path-trace.md) | Process-path trace for Python contribution review, triage, role recognition, and BDFL-to-council transition from existing packet material. | No real PR/issue selection, external source addition, collision level, novelty judgment, governance adoption, reward, or contribution-record movement. |
 | 15 | [Python adverse-path packet shell](2026-07-13-t9-python-adverse-path-packet-shell.md) | Fillable shell for a later closed, delayed, or heavily revised Python PR/issue trace and adjacent recognition or sponsorship signal. | No case selection, source addition, packet upgrade, collision level, novelty judgment, governance adoption, reward, or contribution-record movement. |
 | 15a | [Python adverse-path source-selection gate](2026-07-13-t9-python-adverse-path-source-selection-gate.md) | Gate for deciding whether a future Python adverse-path candidate is narrow, public, source-separable, and safe to open in governed review. | No case selection, source addition, packet fill, packet upgrade, collision level, novelty judgment, governance adoption, reward, or contribution-record movement. |
+| 15b | [Python adverse-path readiness map](2026-07-13-t9-python-adverse-path-readiness-map.md) | Ordered readiness ladder for the Python source packet, process trace, adverse-path shell, and source-selection gate. | No case selection, source addition, packet fill, packet upgrade, collision level, novelty judgment, governance adoption, reward, or contribution-record movement. |
 | 16 | [Commons-governance source packet](2026-07-07-t9-commons-governance-source-packet.md) | Prepared institutional-design packet for participant boundaries, rule modification, monitoring, sanctions, conflict resolution, and nested governance pressure. | No collision level, novelty judgment, commons-governance adoption, rights, sanctions, governance, or public-posture movement. |
 | 17 | [T9 second-wave cross-packet synthesis](2026-07-07-t9-second-wave-cross-packet-synthesis.md) | Six-packet synthesis after the Python and commons-governance packets. | No source-packet upgrade, collision verdict, novelty judgment, claim movement, or test movement. |
 | 18 | [T9 adverse-path evidence queue](2026-07-07-t9-adverse-path-evidence-queue.md) | Ordered evidence needs for adverse, rejected, delayed, under-valued, and retained-record paths. | No case selection, source addition, collision level, contribution-record action, rights, reward, governance, or public-posture movement. |
@@ -61,6 +62,7 @@ adverse_path_surfaces: available
 python_process_path_trace: available
 python_adverse_path_packet_shell: available
 python_adverse_path_source_selection_gate: available
+python_adverse_path_readiness_map: available
 first_pilot_gap_ledger: available
 source_lane_selected: false
 external_sources_added_by_this_map: false
