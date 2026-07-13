@@ -102,6 +102,11 @@ This project will produce:
   gives the first three candidate components a blank, publication-gated packet
   shape before any source facts, observed effects, or component classifications
   are filled.
+- [Transfer-behavior evidence packet shell](07-transfer-behavior-evidence-packet-shell.md)
+  gives the same first three candidate components a blank, publication-gated
+  packet shape for later changed, stable, broken, or stale transfer evidence
+  before any source facts, adaptation outcomes, or component classifications are
+  filled.
 
 ## Success And Failure
 
