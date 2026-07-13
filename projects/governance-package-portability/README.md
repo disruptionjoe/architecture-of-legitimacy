@@ -112,6 +112,10 @@ This project will produce:
   packet shape for later native-surface overlap, duplicate-authority,
   process-drag, and target-fit conflict review before any brownfield facts,
   component classifications, or port recommendations are filled.
+- [Evidence-readiness map](09-evidence-readiness-map.md) orders the
+  publication gate and three unfilled packet shells into a safe fill sequence,
+  keeping the study shape-ready but not evidence-ready, classification-ready,
+  target-ready, or export-ready.
 
 ## Success And Failure
 
