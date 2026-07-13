@@ -95,6 +95,9 @@ This project will produce:
 - [Do-not-port signal register](04-do-not-port-signal-register.md) names
   signals that should make later review defer, reject, thin, or remove a
   component before any portability classification.
+- [Source-evidence publication gate](05-source-evidence-publication-gate.md)
+  separates public-citable source facts from private, internal, sensitive, or
+  reusable-governance/process detail before any later evidence packet.
 
 ## Success And Failure
 

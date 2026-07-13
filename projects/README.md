@@ -80,7 +80,7 @@ must stay blocked until governed review authorizes movement.
 
 | directory | current use | protected boundary |
 |---|---|---|
-| [governance-package-portability](governance-package-portability/) | Inventory, evidence-boundary, process-drag, and do-not-port signal study for whether governance machinery can be evaluated as institutional technology. | No recommendation to port, copy, export, reject, or adopt governance machinery in another repo. |
+| [governance-package-portability](governance-package-portability/) | Inventory, evidence-boundary, process-drag, do-not-port signal, and source-evidence publication-gate study for whether governance machinery can be evaluated as institutional technology. | No recommendation to port, copy, export, reject, or adopt governance machinery in another repo. |
 
 ## Safe Use
 
