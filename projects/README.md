@@ -22,6 +22,12 @@ It consolidates the existing project maps and restates the live-use stops; it
 is not review authorization, policy adoption, claim movement, or public-posture
 movement.
 
+For index-maintenance context, use the
+[repo index coverage audit](repo-index-coverage-audit-2026-07-13.md). It
+reports mechanical coverage drift between tracked project artifacts, local
+README maps, `RESEARCH-AGENDA.md`, and `TESTS.md` without changing artifact
+status, claim status, test status, or public posture.
+
 ## Main Review Maps
 
 Use these when reading the current first-pilot review-prep stack across many
