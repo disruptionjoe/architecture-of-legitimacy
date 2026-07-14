@@ -54,6 +54,25 @@ The resolved paths are:
 - `projects/pilot-review-readiness/2026-07-10-first-pilot-governed-review-packet-map.md`
 - `projects/first-pilot-review-prep-read-order.md`
 
+A second rerun after `55de08d` shows the current omission counts are now 22
+for `RESEARCH-AGENDA.md` and 3 for `TESTS.md`.
+
+The additional resolved `RESEARCH-AGENDA.md` paths since the first maintenance
+state are the four C2 coupled-stack artifacts backfilled by the C2 agenda
+read-order run. The additional resolved `TESTS.md` paths are the first-ring,
+second-ring, and RQ1 disclosure navigation entries backfilled by the later
+July 14 maintenance runs.
+
+The remaining `TESTS.md` literal-path omissions are all under
+`projects/governance-package-portability/`:
+
+- `projects/governance-package-portability/00-initial-scoping-note.md`
+- `projects/governance-package-portability/01-governance-package-inventory.md`
+- `projects/governance-package-portability/02-portability-evidence-boundary.md`
+
+Treat those remaining test-ledger omissions as protected portability-review
+surface area, not as unattended index-backfill work.
+
 The original omission lists below remain the historical output from the July
 13 audit. Future maintenance runs should rerun the check before selecting more
 index backfill, and should not treat either list as an instruction to clear
