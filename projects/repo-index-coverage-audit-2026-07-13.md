@@ -82,6 +82,21 @@ artifacts that were already represented in `TESTS.md` and local directory maps.
 The remaining `TESTS.md` omissions stay the same protected governance-package
 portability surfaces.
 
+A fourth rerun after the foundational agenda-index backfill shows the current
+omission counts are now 2 for `RESEARCH-AGENDA.md` and 3 for `TESTS.md`.
+
+The additional resolved `RESEARCH-AGENDA.md` paths are the remaining
+non-governance foundational T1, T2, T4, T5, T6, and T9 scaffolds already
+represented in `TESTS.md` and local directory maps.
+
+The remaining `RESEARCH-AGENDA.md` omissions are:
+
+- `projects/governance-package-portability/00-initial-scoping-note.md`
+- `projects/governance-package-portability/01-governance-package-inventory.md`
+
+The remaining `TESTS.md` omissions stay the same protected
+governance-package portability surfaces.
+
 The original omission lists below remain the historical output from the July
 13 audit. Future maintenance runs should rerun the check before selecting more
 index backfill, and should not treat either list as an instruction to clear
