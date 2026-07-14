@@ -42,6 +42,23 @@ Repo-level index coverage is uneven:
 | `RESEARCH-AGENDA.md` | 29 | Several older test-support, C2, T9, T10/T11, and navigation artifacts are not literally indexed in the agenda, often because later synthesis artifacts carry the active review-prep thread. |
 | `TESTS.md` | 17 | Several RQ option/boundary, readiness, portability-scoping, and navigation artifacts are not literally indexed in the test ledger, often because they are agenda or review-prep support rather than direct test passes. |
 
+## Subsequent Maintenance State - 2026-07-14
+
+A rerun of the same literal-path check after `b521aaa` and `2b0cdfe` shows the
+current omission counts are now 26 for `RESEARCH-AGENDA.md` and 14 for
+`TESTS.md`.
+
+The resolved paths are:
+
+- `projects/pilot-review-readiness/2026-07-10-first-pilot-answerability-map.md`
+- `projects/pilot-review-readiness/2026-07-10-first-pilot-governed-review-packet-map.md`
+- `projects/first-pilot-review-prep-read-order.md`
+
+The original omission lists below remain the historical output from the July
+13 audit. Future maintenance runs should rerun the check before selecting more
+index backfill, and should not treat either list as an instruction to clear
+every remaining omission.
+
 ## `RESEARCH-AGENDA.md` Literal-Path Omissions
 
 - `projects/attack-surface-map/2026-07-02-t6-attack-surface-map.md`
