@@ -73,6 +73,15 @@ The remaining `TESTS.md` literal-path omissions are all under
 Treat those remaining test-ledger omissions as protected portability-review
 surface area, not as unattended index-backfill work.
 
+A third rerun after the RQ5/T3 agenda backfill shows the current omission
+counts are now 17 for `RESEARCH-AGENDA.md` and 3 for `TESTS.md`.
+
+The additional resolved `RESEARCH-AGENDA.md` paths are the T3 newcomer workflow
+simulation and the four older T10/T11 first-contribution workflow dry-run
+artifacts that were already represented in `TESTS.md` and local directory maps.
+The remaining `TESTS.md` omissions stay the same protected governance-package
+portability surfaces.
+
 The original omission lists below remain the historical output from the July
 13 audit. Future maintenance runs should rerun the check before selecting more
 index backfill, and should not treat either list as an instruction to clear
