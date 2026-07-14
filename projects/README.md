@@ -28,6 +28,12 @@ reports mechanical coverage drift between tracked project artifacts, local
 README maps, `RESEARCH-AGENDA.md`, and `TESTS.md` without changing artifact
 status, claim status, test status, or public posture.
 
+For the older direct test fixtures behind the current review-prep stack, use
+the [foundational test scaffold index](foundational-test-scaffold-index-2026-07-13.md).
+It is navigation only and does not mark tests passed, adopt policy, launch
+review, select sources, or create contribution-record, reward, rights,
+governance, transfer, or public-posture meaning.
+
 ## Main Review Maps
 
 Use these when reading the current first-pilot review-prep stack across many
