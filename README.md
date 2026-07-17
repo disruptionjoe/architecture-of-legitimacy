@@ -67,3 +67,13 @@ Status: early public research program.
 Governance status: explicit founder-led research phase.
 
 The founding commitment is not that the project is decentralized today. It is that claims about legitimacy, decentralization, reward, and capture resistance must become increasingly explicit, testable, and contestable as the project develops.
+
+## First-Class Lanes
+
+Load root `LANES.yaml` after this repository's governance and before selecting
+work. It is the owner-authoritative source for durable Lane definitions,
+admission, and normal control state; authoritative work remains at the paths it
+references. Numbered Lanes are Progress, lettered Lanes are Stewardship, and
+Discovery is Lane-less. A direct mount uses these local surfaces without
+CapacityOS. System observations, health, schedules, and execution history are
+not Lane truth.
