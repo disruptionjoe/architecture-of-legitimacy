@@ -1,5 +1,11 @@
 # Architecture Of Legitimacy Agent Instructions
 
+**Read `governance/CHARTER.md` before research work. It is the sole ratified surface of this repository.** `README.md`, `CLAIMS.md`, `LEGITIMACY-SCHEMA.md`, `GOVERNANCE.md`, `THREAT-MODEL.md`, `PROTOCOL-STACK.md`, `GUARDRAILS.md`, and everything under `projects/` are working documents. Where any conflicts with the charter, the charter governs.
+
+The charter carries one North Star with two components. The **blockbuster component** — findable conditions under which enduring legitimacy is constructible in a positive-sum game, making corruption and collusion nonviable rather than merely punished — is what Lane 1 forces or falsifies. The **agent-capability component** — adversarial self-application — is not a lane, never commissions an experiment, and only explains why this repository chases this claim and constrains how Lane 1 runs. Neither is evidence for the other.
+
+The charter also carries **Ratified Prohibitions** (P1–P4) and a **Kill Condition**. Sections `North Star`, `Ratified Prohibitions`, `Kill Condition`, and `Self-Application Discipline` are **outside the scope of Legitimacy Condition 5 (Adaptive Rule Change)**. Condition 5 governs rubrics, cadences, taxonomies, workflows, and the schema. It does not govern the charter.
+
 This repository is a public research truth surface. It owns its claims, legitimacy schema, protocol stack, governance/guardrails, threat model, essays, explorations, contribution standards, and research agenda.
 
 When stewardship context is needed, load `../../../system/stewards/architecture-of-legitimacy/README.md`. Do not load `../../../system/stewards/architecture-of-legitimacy/memory-log.md` by default unless doing stewardship or memory work, or the steward summary appears incomplete.
@@ -91,3 +97,22 @@ references. Numbered Lanes are Progress, lettered Lanes are Stewardship, and
 Discovery is Lane-less. A direct mount uses these local surfaces without
 CapacityOS. System observations, health, schedules, and execution history are
 not Lane truth.
+
+- Lane 1: Legitimacy feasibility, substrate-bounded (`LEGITIMACY-FEASIBILITY`).
+- Lane 2: Proving ground (`PROVING-GROUND`). Supports Lane 1; **lease required**
+  to lead scheduling.
+- Lane A: Legitimacy stewardship.
+
+**`LANES.yaml` is a pointer to `governance/CHARTER.md`, never a source.** Where
+the two differ, the charter is right by construction and the manifest is
+corrected against it. This is not hypothetical: the first revision of that file
+was rendered from the CapacityOS WI-078 disposition manifest rather than authored
+from the charter, and it pointed `charter_ref` at this file while installing as
+Lane 1 the protocol-stack incumbent that a five-scientist Condorcet council
+scored last of seven. **No agent may treat a manifest, planning artifact, or
+orchestration brief as evidence of what this repository claims.**
+
+Lane 2 requires a lease for a reason recorded in evidence, not as a precaution.
+The operating note below warns against formalizing a finishable byproduct instead
+of pursuing the North Star. `projects/` then acquired a read-order for its own
+maps and a coverage audit of its own index. Reading a warning is not obeying it.

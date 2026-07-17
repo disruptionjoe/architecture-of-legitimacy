@@ -1,46 +1,93 @@
+# Architecture of Legitimacy lane manifest.
+#
+# This file is the repository's authoritative declaration of its durable
+# execution containers. It holds definitions, owner control state, and pointers
+# to authoritative work. It never stores run history, derived health,
+# automation cadence, or a duplicate backlog.
+#
+# CANON PRECEDENCE. This file is a POINTER to governance/CHARTER.md, never a
+# source. Where the two differ, the charter is right by construction and this
+# file is corrected against it. An earlier revision was rendered from the
+# CapacityOS WI-078 disposition manifest rather than authored from the charter:
+# it set charter_ref to AGENTS.md (the charter is governance/CHARTER.md) and set
+# Lane 1 to "Contribution architecture", the protocol-stack incumbent a
+# five-scientist Condorcet council scored 0-6, last of seven. Rendering an
+# in-repo artifact from an out-of-repo summary is not neutral transcription; it
+# substitutes the portfolio's paraphrase for repo canon, and the paraphrase
+# inherits this repository's authority the moment it lands here.
+#
+# The North Star is ONE statement with two components. The blockbuster component
+# is what Lane 1 forces or falsifies. The agent-capability component is not a
+# lane, never commissions an experiment, and only explains the choice of target
+# and constrains method.
+
 lane_contract_version: '1.0'
-manifest_revision: 1
+manifest_revision: 2
 owner:
   owner_id: architecture-of-legitimacy
   display_name: Architecture of Legitimacy
   scope_type: repository
-  charter_ref: AGENTS.md
+  charter_ref: governance/CHARTER.md
   governance_refs:
   - AGENTS.md
-  authoritative_state_refs: &id001
-  - GOVERNANCE.md
+  authoritative_state_refs:
+  - governance/CHARTER.md
+  - CLAIMS.md
   - LEGITIMACY-SCHEMA.md
-  - RESEARCH-AGENDA.md
-  - ROADMAP.md
-  - TESTS.md
+  - THREAT-MODEL.md
+  - PROTOCOL-STACK.md
+  - GOVERNANCE.md
+  charter_north_star_blockbuster: 'There are findable conditions under which enduring legitimacy
+    is constructible in a positive-sum game: conditions that make corruption and collusion
+    nonviable rather than merely punished, and that hold because of what the enforcement substrate
+    makes possible rather than what any population currently prefers. (governance/CHARTER.md,
+    North Star > Blockbuster component.) Lane 1 is its primary operational expression.'
+  charter_north_star_agent_capability: 'Whether research agents can perform adversarial self-application:
+    run the instrument on the institution running the instrument and return a verdict its
+    host did not want, without flattering the host and without reaching for the host''s own
+    ratified escape hatch. (governance/CHARTER.md, North Star > Agent-capability component.)
+    This is NOT a lane and may not commission work. It explains why this repository chases
+    this blockbuster: no other repository in the portfolio is its own specimen, and this hazard
+    is preferring a SELF, which blinding cannot fix. It constrains method via governance/CHARTER.md
+    Self-Application Discipline. Neither component is evidence for the other.'
+  kill_condition_ref: governance/CHARTER.md#kill-condition
 lanes:
 - id: '1'
   label: Lane 1
   ordinal: 1
   kind: progress
-  title: Contribution architecture
+  title: Legitimacy feasibility, substrate-bounded
   north_star: true
-  purpose: Develop a legitimate, capture-resistant architecture for contribution, review, credit, rights,
-    and governance.
+  purpose: 'Force or falsify the charter''s blockbuster component: that there are findable
+    conditions under which enduring legitimacy is constructible in a positive-sum game, making
+    corruption and collusion nonviable rather than merely punished, and holding because of
+    what the enforcement substrate makes possible rather than what any population currently
+    prefers. The load-bearing words are nonviable (not detected-and-punished) and findable
+    (discoverable by method, not stipulated by a designer).'
   purpose_type: north_star
   relation_to_lane_1: primary_operational_expression
-  environment: The owner's governed repository, its declared operating interfaces, and its authoritative
-    work surfaces.
-  beneficiaries: &id003
+  environment: The owner's governed repository, its declared operating interfaces, and its
+    authoritative work surfaces.
+  beneficiaries: &id002
   - Joe
   - the owner's declared users
   - authorized downstream consumers
-  admission: &id004
+  admission: &id003
     posture: governed
     authority_ref: AGENTS.md
   execution_posture: automation_eligible
   health_profile: run_observed
   directed_flow: null
-  authoritative_work_refs: *id001
-  durable_outputs: &id002
-  - Owner-governed artifacts, decisions, and state transitions that directly advance or test the named
-    Lane 1 purpose.
-  eligible_outputs: *id002
+  authoritative_work_refs: &id004
+  - GOVERNANCE.md
+  - LEGITIMACY-SCHEMA.md
+  - RESEARCH-AGENDA.md
+  - ROADMAP.md
+  - TESTS.md
+  durable_outputs: &id001
+  - Owner-governed artifacts, decisions, and state transitions that directly advance or test
+    the named Lane 1 purpose.
+  eligible_outputs: *id001
   forbidden_outputs: &id006
   - another owner's canon or authoritative state
   - automation enrollment, activation, cadence, trigger, or scheduler state
@@ -48,73 +95,101 @@ lanes:
   control:
     state: active
     in_flight_policy: continue_current
-    control_revision: 1
+    control_revision: 2
     scheduling_preference: normal
     changed_at: '2026-07-16T00:00:00-05:00'
     changed_by: Joe direct chat, 2026-07-16
-    authority_ref: Joe-approved WI-078 fleet target map
-    reason: Initial first-class Lane ratification
+    authority_ref: Joe direct chat, 2026-07-16 charter ratification
+    reason: Lane 1 re-pointed at the ratified charter blockbuster component. The rendered
+      purpose (contribution architecture) was the protocol-stack incumbent, which a five-scientist
+      Condorcet council scored 0-6, last of seven. It names no kill condition, which is why
+      it lost.
   provenance:
-    revision: 1
+    revision: 2
     approved_at: '2026-07-16T00:00:00-05:00'
     approved_by: Joe direct chat, 2026-07-16
+  slug: LEGITIMACY-FEASIBILITY
+  method_constraints_ref: governance/CHARTER.md#self-application-discipline
+  method_constraints_note: Self-Application Discipline is binding on every run in this lane
+    and derives from the North Star agent-capability component, not from a lane of its own.
+    Measure the host first; an adverse finding about this repository is a first-class result;
+    no rule-change under adverse measurement.
+  falsification_refs:
+  - governance/CHARTER.md#kill-condition
+  research_sequence:
+  - 'First experiment: the git Non-Capture measurement. Does capture cost rise with accumulated
+    legitimacy because of git properties, or because of founder decisions? Runnable alone;
+    can kill this repository unilaterally (K1).'
+  - 'Second experiment: the Interval Sweep, the seam experiment with Continuity Ledger. This
+    repository owns the legitimacy half and consumes the substrate half as a frozen packet
+    (P1).'
 - id: '2'
   label: Lane 2
   ordinal: 2
   kind: progress
-  title: Gated proving ground
+  title: Proving ground
   north_star: false
-  purpose: Test contribution architecture in admission-gated, bounded repo experiments without silently
-    converting tests into policy.
-  purpose_type: independent_progress
-  relation_to_lane_1: independent_progress
-  environment: The owner's governed repository, its declared operating interfaces, and its authoritative
-    work surfaces.
-  beneficiaries: *id003
-  admission: *id004
+  purpose: 'Run bounded, admission-gated experiments testing the conditions on real substrates,
+    beginning with this repository own git substrate. The protocol stack is the apparatus
+    for these experiments, not the thesis: it is where a claim gets tested, never the claim.
+    May not outrun Lane 1 evidence.'
+  purpose_type: supporting_progress
+  relation_to_lane_1: supports:legitimacy feasibility
+  environment: The owner's governed repository, its declared operating interfaces, and its
+    authoritative work surfaces.
+  beneficiaries: *id002
+  admission: *id003
   execution_posture: automation_eligible
   health_profile: run_observed
   directed_flow: null
-  authoritative_work_refs: *id001
+  authoritative_work_refs: *id004
   durable_outputs: &id005
-  - Owner-governed artifacts, decisions, and state transitions that advance the named independent Progress
-    purpose.
+  - Owner-governed artifacts, decisions, and state transitions that advance the named independent
+    Progress purpose.
   eligible_outputs: *id005
   forbidden_outputs: *id006
   control:
     state: active
     in_flight_policy: continue_current
-    control_revision: 1
+    control_revision: 2
     scheduling_preference: normal
     changed_at: '2026-07-16T00:00:00-05:00'
     changed_by: Joe direct chat, 2026-07-16
-    authority_ref: Joe-approved WI-078 fleet target map
-    reason: Initial first-class Lane ratification
+    authority_ref: Joe direct chat, 2026-07-16 charter ratification
+    reason: Demoted from independent_progress to supporting_progress with a required lease.
   provenance:
-    revision: 1
+    revision: 2
     approved_at: '2026-07-16T00:00:00-05:00'
     approved_by: Joe direct chat, 2026-07-16
+  slug: PROVING-GROUND
+  lease_required: true
+  lease_note: 'Scheduling lead for this lane requires a recorded lease under the North-Star
+    firewall: relation to Lane 1, legitimate reason, authority, start, exit criterion or expiry,
+    return target, closeout evidence. This brake is evidence-driven, not precautionary. AGENTS.md
+    carries a standing warning against formalizing a finishable byproduct instead of pursuing
+    the North Star, and projects/ then acquired a read-order for its own maps and a coverage
+    audit of its own index. Reading a warning is not obeying it.'
 - id: A
   label: Lane A
   letter: A
   kind: stewardship
   title: Legitimacy stewardship
   north_star: false
-  purpose: Keep {owner.display_name} viable and trustworthy through integrated coordination, control,
-    audit, intelligence/adaptation, policy/identity, and escalation.
+  purpose: Keep {owner.display_name} viable and trustworthy through integrated coordination,
+    control, audit, intelligence/adaptation, policy/identity, and escalation.
   purpose_type: integrated_stewardship
   relation_to_lane_1: stewardship_of_owner
-  environment: The owner's governed repository, its declared operating interfaces, and its authoritative
-    work surfaces.
-  beneficiaries: *id003
-  admission: *id004
+  environment: The owner's governed repository, its declared operating interfaces, and its
+    authoritative work surfaces.
+  beneficiaries: *id002
+  admission: *id003
   execution_posture: automation_eligible
   health_profile: run_observed
   directed_flow: null
-  authoritative_work_refs: *id001
+  authoritative_work_refs: *id004
   durable_outputs: &id007
-  - Governance corrections, reconciliations, integrity records, adaptation proposals, and escalations
-    that keep the owner viable.
+  - Governance corrections, reconciliations, integrity records, adaptation proposals, and
+    escalations that keep the owner viable.
   eligible_outputs: *id007
   forbidden_outputs: *id006
   control:
