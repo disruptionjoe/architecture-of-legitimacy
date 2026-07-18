@@ -1,0 +1,27 @@
+schema_version: "1.0"
+owner_id: architecture-of-legitimacy
+rule_ref: system/runtime/flows/derive-lane-health.md
+evaluated_at: "2026-07-18T09:39:18-05:00"
+run_ref: RUN-20260718-483-repository-work-cycle-cai-hourly
+lanes:
+  - lane_id: "1"
+    light: green
+    reason_code: active_north_star_work_path
+    evidence_ref: "governance/CHARTER.md#first-experiment; LANES.yaml"
+    summary: "Lane 1 has an active charter-grounded git non-capture test path."
+    evaluated_at: "2026-07-18T09:39:18-05:00"
+    run_ref: RUN-20260718-483-repository-work-cycle-cai-hourly
+  - lane_id: "2"
+    light: yellow
+    reason_code: supporting_lane_lease_required
+    evidence_ref: "LANES.yaml#PROVING-GROUND"
+    summary: "Lane 2 is active but may not lead scheduling without a recorded lease."
+    evaluated_at: "2026-07-18T09:39:18-05:00"
+    run_ref: RUN-20260718-483-repository-work-cycle-cai-hourly
+  - lane_id: A
+    light: green
+    reason_code: mailbox_processed_and_controls_intact
+    evidence_ref: "system/mailboxes/architecture-of-legitimacy/archive/20260716-lane-steering-first-class-lanes-and-adversarial-contributions.md"
+    summary: "Lane A processed stale lane-steering mail; controls remain intact."
+    evaluated_at: "2026-07-18T09:39:18-05:00"
+    run_ref: RUN-20260718-483-repository-work-cycle-cai-hourly
