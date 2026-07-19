@@ -1,22 +1,55 @@
-schema_version: "1.0"
+schema_version: "2.0"
 owner_id: architecture-of-legitimacy
-rule_ref: system/runtime/flows/derive-lane-health.md
-evaluated_at: "2026-07-19T11:39:01-05:00"
-run_ref: RUN-20260719-534-repository-work-cycle-cai-hourly
+group: church-of-ai
+rule_ref: system/runtime/flows/refresh-lane-state.md
+updated_at: "2026-07-19T16:39:47-05:00"
+run_ref: RUN-20260719-545-repository-work-cycle-cai-hourly
+bottom_line: "Lane 1 remains on Git Non-Capture; public retention found no OBS-3, so K1 is still not evaluated."
+decision_default: "Reopen only on new retained-object, adverse-artifact, or recognition-routing evidence."
+needs_joe: false
 lanes:
   - lane_id: "1"
     work_status: moving
-    last_movement: "Git Non-Capture public retention source pass tested concrete old identities and found no admitted external retained object graph."
+    last_movement: "Git Non-Capture public retention source pass tested old identities and found no admitted external retained object graph."
     movement_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-public-retention-source-pass.md"
     steering_attention: none
-    steering_prompt: none
+    steering_prompt: "none"
     steering_ref: "LANES.yaml#LEGITIMACY-FEASIBILITY"
     light: green
     reason_code: public_retention_no_obs3
     evidence_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-public-retention-source-pass.md; projects/git-non-capture-measurement/2026-07-19-git-non-capture-retention-source-intake.md; projects/git-non-capture-measurement/2026-07-19-git-non-capture-time-slice-threshold-application.md; governance/CHARTER.md; LANES.yaml"
     summary: "Admitted public GitHub checks show no OBS-3 retention, leaving capture direction unknown and K1 not evaluated."
-    evaluated_at: "2026-07-19T11:39:01-05:00"
-    run_ref: RUN-20260719-534-repository-work-cycle-cai-hourly
+    evaluated_at: "2026-07-19T16:39:47-05:00"
+    run_ref: RUN-20260719-545-repository-work-cycle-cai-hourly
+    objective: "Force or falsify whether git-substrate legitimacy can make capture nonviable and findable."
+    progress_delta: "No new measurement evidence this run; the public-retention source pass remains the current Lane 1 movement."
+    scope_position: "Git Non-Capture: 7 artifacts current; public retention source pass reached OBS-0, not OBS-3."
+    trend_24h: up
+    confidence: high
+    recommendation: "Wait for new retained-object evidence."
+    findings:
+      - "No public fork, mirror, same-name repository, exact-SHA code-search row, tag, or noncanonical public ref exposed old objects."
+      - "All tested old identities remain self-retained ancestors of current canonical HEAD."
+      - "Current capture-cost direction is unknown and K1 remains not evaluated."
+    options:
+      - id: A
+        label: "Wait for evidence"
+        recommended: true
+        description: "Reopen only when a public retained graph, adverse artifact, or routing diff appears."
+      - id: B
+        label: "Repeat public check"
+        recommended: false
+        description: "Useful only after enough time or new public source evidence appears."
+      - id: C
+        label: "Prepare adverse path"
+        recommended: false
+        description: "Needs an actual adverse or result-bearing artifact before navigation can be measured."
+      - id: D
+        label: "Defer"
+        recommended: false
+        description: "No Joe-facing decision is needed."
+    decision_default: "Wait for new retained-object, adverse-artifact, or recognition-routing evidence."
+    needs_joe: false
   - lane_id: "2"
     work_status: thin
     last_movement: "none found"
@@ -28,18 +61,83 @@ lanes:
     reason_code: supporting_lane_lease_required
     evidence_ref: "LANES.yaml#PROVING-GROUND"
     summary: "Lane 2 is active but may not lead scheduling without a recorded lease."
-    evaluated_at: "2026-07-19T11:39:01-05:00"
-    run_ref: RUN-20260719-534-repository-work-cycle-cai-hourly
+    evaluated_at: "2026-07-19T16:39:47-05:00"
+    run_ref: RUN-20260719-545-repository-work-cycle-cai-hourly
+    objective: "Run admission-gated proving-ground experiments only when they support Lane 1 under a recorded lease."
+    progress_delta: "No Lane 2 movement this run; the lease requirement still blocks lead scheduling."
+    scope_position: "Active supporting lane; no recorded lease found in the loaded authority/state surfaces."
+    trend_24h: flat
+    confidence: high
+    recommendation: "Do not schedule without lease."
+    findings:
+      - "Lane 2 supports Lane 1 and may not outrun Lane 1 evidence."
+      - "No new lease, mailbox proposal, or governed review evidence was present."
+      - "The current Non-Capture frontier remains Lane 1."
+    options:
+      - id: A
+        label: "Hold lease gate"
+        recommended: true
+        description: "Keep Lane 2 available but do not let it lead scheduling."
+      - id: B
+        label: "Record lease"
+        recommended: false
+        description: "Only valid with relation to Lane 1, authority, exit criterion, and closeout evidence."
+      - id: C
+        label: "Review support path"
+        recommended: false
+        description: "Use if new Lane 1 evidence makes a supporting experiment necessary."
+      - id: D
+        label: "Defer"
+        recommended: false
+        description: "No action is needed while Lane 1 remains the frontier."
+    decision_default: "Hold Lane 2 until a valid lease exists."
+    needs_joe: false
   - lane_id: A
     work_status: moving
-    last_movement: "Public README was corrected against the ratified charter."
-    movement_ref: "README.md; governance/CHARTER.md"
+    last_movement: "Refreshed root Lane state from schema 1.0 to schema 2.0."
+    movement_ref: "LANE-STATE.yaml"
     steering_attention: none
-    steering_prompt: none
+    steering_prompt: "none"
     steering_ref: "AGENTS.md; LANES.yaml"
     light: green
-    reason_code: charter_alignment_stewardship
-    evidence_ref: "README.md; AGENTS.md; governance/CHARTER.md"
-    summary: "Stewardship corrected the public README to lead from the ratified charter."
-    evaluated_at: "2026-07-19T11:39:01-05:00"
-    run_ref: RUN-20260719-534-repository-work-cycle-cai-hourly
+    reason_code: lane_state_schema2_refreshed
+    evidence_ref: "AGENTS.md; LANES.yaml; LANE-STATE.yaml; system/mailboxes/architecture-of-legitimacy"
+    summary: "Stewardship repaired the operational state shape without changing Lane control or research truth."
+    evaluated_at: "2026-07-19T16:39:47-05:00"
+    run_ref: RUN-20260719-545-repository-work-cycle-cai-hourly
+    objective: "Keep Architecture of Legitimacy viable through coordination, control, audit, adaptation, policy, and escalation."
+    progress_delta: "Converted the state summary to schema 2.0; no mailbox payload, control change, or public-posture movement."
+    trend_24h: up
+    confidence: high
+    recommendation: "Continue normal stewardship watch."
+    findings:
+      - "Mailbox has no substantive unarchived payload."
+      - "Writer lock absent and checkout clean/even before the repair."
+      - "Current Non-Capture state is now represented in the active Lane Summary contract."
+    options:
+      - id: A
+        label: "Continue watch"
+        recommended: true
+        description: "No further stewardship repair is needed now."
+      - id: B
+        label: "Inspect history"
+        recommended: false
+        description: "Use only if future evidence conflicts with the current public-retention result."
+      - id: C
+        label: "Signal update"
+        recommended: false
+        description: "Parent recorder may refresh central signals after this child closes."
+      - id: D
+        label: "Defer"
+        recommended: false
+        description: "No Joe-facing decision is needed."
+    decision_default: "Continue normal stewardship watch."
+    needs_joe: false
+    drift_verdict: "repaired LANE-STATE schema-2.0 drift"
+    action_counts:
+      mail: 0
+      reconciled: 1
+      integrity_repairs: 1
+      seeds_routed: 0
+      escalations: 0
+    attention_pointer: "nothing needs you"
