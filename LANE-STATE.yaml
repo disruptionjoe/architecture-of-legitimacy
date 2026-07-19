@@ -1,22 +1,22 @@
 schema_version: "1.0"
 owner_id: architecture-of-legitimacy
 rule_ref: system/runtime/flows/derive-lane-health.md
-evaluated_at: "2026-07-18T23:41:23-05:00"
-run_ref: RUN-20260718-519-repository-work-cycle-cai-hourly
+evaluated_at: "2026-07-19T06:58:36-05:00"
+run_ref: RUN-20260719-522-repository-work-cycle-cai-hourly
 lanes:
   - lane_id: "1"
     work_status: moving
-    last_movement: "Git Non-Capture measurement protocol skeleton created for the charter first experiment."
-    movement_ref: "projects/git-non-capture-measurement/; governance/CHARTER.md#first-experiment"
+    last_movement: "Git Non-Capture local data pass recorded source-separated git facts without a K1 verdict."
+    movement_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-local-data-pass.md"
     steering_attention: none
     steering_prompt: none
     steering_ref: "LANES.yaml#LEGITIMACY-FEASIBILITY"
     light: green
-    reason_code: first_experiment_protocol_scaffolded
-    evidence_ref: "projects/git-non-capture-measurement/; governance/CHARTER.md; LANES.yaml"
-    summary: "Git Non-Capture measurement now has a bounded protocol scaffold."
-    evaluated_at: "2026-07-18T23:41:23-05:00"
-    run_ref: RUN-20260718-519-repository-work-cycle-cai-hourly
+    reason_code: first_experiment_local_data_pass
+    evidence_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-local-data-pass.md; governance/CHARTER.md; LANES.yaml"
+    summary: "Git Non-Capture now has a source-separated local data pass."
+    evaluated_at: "2026-07-19T06:58:36-05:00"
+    run_ref: RUN-20260719-522-repository-work-cycle-cai-hourly
   - lane_id: "2"
     work_status: thin
     last_movement: "none found"
@@ -28,8 +28,8 @@ lanes:
     reason_code: supporting_lane_lease_required
     evidence_ref: "LANES.yaml#PROVING-GROUND"
     summary: "Lane 2 is active but may not lead scheduling without a recorded lease."
-    evaluated_at: "2026-07-18T23:41:23-05:00"
-    run_ref: RUN-20260718-519-repository-work-cycle-cai-hourly
+    evaluated_at: "2026-07-19T06:58:36-05:00"
+    run_ref: RUN-20260719-522-repository-work-cycle-cai-hourly
   - lane_id: A
     work_status: moving
     last_movement: "Public README was corrected against the ratified charter."
@@ -41,5 +41,5 @@ lanes:
     reason_code: charter_alignment_stewardship
     evidence_ref: "README.md; AGENTS.md; governance/CHARTER.md"
     summary: "Stewardship corrected the public README to lead from the ratified charter."
-    evaluated_at: "2026-07-18T23:41:23-05:00"
-    run_ref: RUN-20260718-519-repository-work-cycle-cai-hourly
+    evaluated_at: "2026-07-19T06:58:36-05:00"
+    run_ref: RUN-20260719-522-repository-work-cycle-cai-hourly
