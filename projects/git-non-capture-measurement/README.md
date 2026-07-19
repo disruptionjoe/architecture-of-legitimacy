@@ -32,6 +32,7 @@ They may not:
 |---|---|---|
 | [Measurement protocol skeleton](2026-07-18-git-non-capture-measurement-protocol.md) | Names variables, founder-discretion checks, admissibility stops, and the first local data pass. | No measurement result, verdict, policy movement, or public-posture movement. |
 | [Local data pass](2026-07-19-git-non-capture-local-data-pass.md) | Records repo-local git snapshot facts, time-slice facts, and founder-discretion labels for later action-set comparison. | No capture-cost direction, K1 implication, governance change, policy movement, or public-posture movement. |
+| [Action-set comparison](2026-07-19-git-non-capture-action-set-comparison.md) | Separates three capture-path action sets across git mechanics, observer availability, platform settings, and founder/governance choices. | No capture-cost direction, K1 implication, governance change, policy movement, or public-posture movement. |
 
 ## Measurement Discipline
 
