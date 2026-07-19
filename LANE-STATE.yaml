@@ -1,22 +1,22 @@
 schema_version: "1.0"
 owner_id: architecture-of-legitimacy
 rule_ref: system/runtime/flows/derive-lane-health.md
-evaluated_at: "2026-07-19T10:39:21-05:00"
-run_ref: RUN-20260719-532-repository-work-cycle-cai-hourly
+evaluated_at: "2026-07-19T11:39:01-05:00"
+run_ref: RUN-20260719-534-repository-work-cycle-cai-hourly
 lanes:
   - lane_id: "1"
     work_status: moving
-    last_movement: "Git Non-Capture retention source-intake gate made OBS-3 evidence admissibility inspectable."
-    movement_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-retention-source-intake.md"
+    last_movement: "Git Non-Capture public retention source pass tested concrete old identities and found no admitted external retained object graph."
+    movement_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-public-retention-source-pass.md"
     steering_attention: none
     steering_prompt: none
     steering_ref: "LANES.yaml#LEGITIMACY-FEASIBILITY"
     light: green
-    reason_code: retention_source_intake_gate
-    evidence_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-retention-source-intake.md; projects/git-non-capture-measurement/2026-07-19-git-non-capture-time-slice-threshold-application.md; governance/CHARTER.md; LANES.yaml"
-    summary: "Source-intake gate admits no OBS-3 evidence and keeps K1 not evaluated."
-    evaluated_at: "2026-07-19T10:39:21-05:00"
-    run_ref: RUN-20260719-532-repository-work-cycle-cai-hourly
+    reason_code: public_retention_no_obs3
+    evidence_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-public-retention-source-pass.md; projects/git-non-capture-measurement/2026-07-19-git-non-capture-retention-source-intake.md; projects/git-non-capture-measurement/2026-07-19-git-non-capture-time-slice-threshold-application.md; governance/CHARTER.md; LANES.yaml"
+    summary: "Admitted public GitHub checks show no OBS-3 retention, leaving capture direction unknown and K1 not evaluated."
+    evaluated_at: "2026-07-19T11:39:01-05:00"
+    run_ref: RUN-20260719-534-repository-work-cycle-cai-hourly
   - lane_id: "2"
     work_status: thin
     last_movement: "none found"
@@ -28,8 +28,8 @@ lanes:
     reason_code: supporting_lane_lease_required
     evidence_ref: "LANES.yaml#PROVING-GROUND"
     summary: "Lane 2 is active but may not lead scheduling without a recorded lease."
-    evaluated_at: "2026-07-19T10:39:21-05:00"
-    run_ref: RUN-20260719-532-repository-work-cycle-cai-hourly
+    evaluated_at: "2026-07-19T11:39:01-05:00"
+    run_ref: RUN-20260719-534-repository-work-cycle-cai-hourly
   - lane_id: A
     work_status: moving
     last_movement: "Public README was corrected against the ratified charter."
@@ -41,5 +41,5 @@ lanes:
     reason_code: charter_alignment_stewardship
     evidence_ref: "README.md; AGENTS.md; governance/CHARTER.md"
     summary: "Stewardship corrected the public README to lead from the ratified charter."
-    evaluated_at: "2026-07-19T10:39:21-05:00"
-    run_ref: RUN-20260719-532-repository-work-cycle-cai-hourly
+    evaluated_at: "2026-07-19T11:39:01-05:00"
+    run_ref: RUN-20260719-534-repository-work-cycle-cai-hourly

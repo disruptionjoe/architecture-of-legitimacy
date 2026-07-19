@@ -51,7 +51,7 @@ Use this before treating contribution-workflow apparatus as the objective.
 
 | directory | current use | protected boundary |
 |---|---|---|
-| [git-non-capture-measurement](git-non-capture-measurement/) | Protocol skeleton, local data pass, action-set comparison, and observable-threshold gate for the charter's first experiment on this repository's git substrate. | No measurement result, K1 verdict, governance change, policy adoption, or public-posture movement. |
+| [git-non-capture-measurement](git-non-capture-measurement/) | Protocol skeleton, local data pass, action-set comparison, observable thresholds, and retained-object public source checks for the charter's first experiment on this repository's git substrate. | No measurement result, K1 verdict, governance change, policy adoption, or public-posture movement. |
 
 ## First-Ring Contribution Lanes
 

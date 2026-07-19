@@ -36,6 +36,7 @@ They may not:
 | [Observable thresholds](2026-07-19-git-non-capture-observable-thresholds.md) | Defines threshold levels for known-public-head evidence, observer availability, adverse-artifact navigation, and recognition-routing diffs. | No capture-cost direction, K1 implication, governance change, policy movement, or public-posture movement. |
 | [Time-slice threshold application](2026-07-19-git-non-capture-time-slice-threshold-application.md) | Applies the threshold gate to concrete charter and measurement slices. | Keeps capture-cost direction `unknown` and K1 `not_evaluated`; no governance, policy, or public-posture movement. |
 | [Retention source-intake gate](2026-07-19-git-non-capture-retention-source-intake.md) | Defines the source-admission fields for a later `OBS-3 retained_object_graph` pass. | Admits no retained-object evidence; keeps capture-cost direction `unknown` and K1 `not_evaluated`; no external source use, governance, policy, or public-posture movement. |
+| [Public retention source pass](2026-07-19-git-non-capture-public-retention-source-pass.md) | Tests concrete old object identities against admitted public GitHub source checks. | Admits no `OBS-3` evidence; keeps capture-cost direction `unknown` and K1 `not_evaluated`; no governance, policy, or public-posture movement. |
 
 ## Measurement Discipline
 
