@@ -1,22 +1,22 @@
 schema_version: "1.0"
 owner_id: architecture-of-legitimacy
 rule_ref: system/runtime/flows/derive-lane-health.md
-evaluated_at: "2026-07-19T07:40:50-05:00"
-run_ref: RUN-20260719-524-repository-work-cycle-cai-hourly
+evaluated_at: "2026-07-19T08:39:30-05:00"
+run_ref: RUN-20260719-526-repository-work-cycle-cai-hourly
 lanes:
   - lane_id: "1"
     work_status: moving
-    last_movement: "Git Non-Capture action-set comparison separated three capture paths without a K1 verdict."
-    movement_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-action-set-comparison.md"
+    last_movement: "Git Non-Capture observable thresholds defined four evidence gates without a K1 verdict."
+    movement_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-observable-thresholds.md"
     steering_attention: none
     steering_prompt: none
     steering_ref: "LANES.yaml#LEGITIMACY-FEASIBILITY"
     light: green
-    reason_code: first_experiment_action_set_comparison
-    evidence_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-action-set-comparison.md; projects/git-non-capture-measurement/2026-07-19-git-non-capture-local-data-pass.md; governance/CHARTER.md; LANES.yaml"
-    summary: "Git Non-Capture now separates three capture-path action sets."
-    evaluated_at: "2026-07-19T07:40:50-05:00"
-    run_ref: RUN-20260719-524-repository-work-cycle-cai-hourly
+    reason_code: first_experiment_observable_threshold_gate
+    evidence_ref: "projects/git-non-capture-measurement/2026-07-19-git-non-capture-observable-thresholds.md; projects/git-non-capture-measurement/2026-07-19-git-non-capture-action-set-comparison.md; governance/CHARTER.md; LANES.yaml"
+    summary: "Git Non-Capture now has observable thresholds for later result-bearing measurement."
+    evaluated_at: "2026-07-19T08:39:30-05:00"
+    run_ref: RUN-20260719-526-repository-work-cycle-cai-hourly
   - lane_id: "2"
     work_status: thin
     last_movement: "none found"
@@ -28,8 +28,8 @@ lanes:
     reason_code: supporting_lane_lease_required
     evidence_ref: "LANES.yaml#PROVING-GROUND"
     summary: "Lane 2 is active but may not lead scheduling without a recorded lease."
-    evaluated_at: "2026-07-19T07:40:50-05:00"
-    run_ref: RUN-20260719-524-repository-work-cycle-cai-hourly
+    evaluated_at: "2026-07-19T08:39:30-05:00"
+    run_ref: RUN-20260719-526-repository-work-cycle-cai-hourly
   - lane_id: A
     work_status: moving
     last_movement: "Public README was corrected against the ratified charter."
@@ -41,5 +41,5 @@ lanes:
     reason_code: charter_alignment_stewardship
     evidence_ref: "README.md; AGENTS.md; governance/CHARTER.md"
     summary: "Stewardship corrected the public README to lead from the ratified charter."
-    evaluated_at: "2026-07-19T07:40:50-05:00"
-    run_ref: RUN-20260719-524-repository-work-cycle-cai-hourly
+    evaluated_at: "2026-07-19T08:39:30-05:00"
+    run_ref: RUN-20260719-526-repository-work-cycle-cai-hourly
