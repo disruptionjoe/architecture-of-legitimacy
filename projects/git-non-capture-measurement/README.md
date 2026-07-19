@@ -34,6 +34,7 @@ They may not:
 | [Local data pass](2026-07-19-git-non-capture-local-data-pass.md) | Records repo-local git snapshot facts, time-slice facts, and founder-discretion labels for later action-set comparison. | No capture-cost direction, K1 implication, governance change, policy movement, or public-posture movement. |
 | [Action-set comparison](2026-07-19-git-non-capture-action-set-comparison.md) | Separates three capture-path action sets across git mechanics, observer availability, platform settings, and founder/governance choices. | No capture-cost direction, K1 implication, governance change, policy movement, or public-posture movement. |
 | [Observable thresholds](2026-07-19-git-non-capture-observable-thresholds.md) | Defines threshold levels for known-public-head evidence, observer availability, adverse-artifact navigation, and recognition-routing diffs. | No capture-cost direction, K1 implication, governance change, policy movement, or public-posture movement. |
+| [Time-slice threshold application](2026-07-19-git-non-capture-time-slice-threshold-application.md) | Applies the threshold gate to concrete charter and measurement slices. | Keeps capture-cost direction `unknown` and K1 `not_evaluated`; no governance, policy, or public-posture movement. |
 
 ## Measurement Discipline
 
