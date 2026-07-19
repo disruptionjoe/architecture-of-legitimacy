@@ -45,6 +45,14 @@ lanes.
 | [second-ring-synthesis](second-ring-synthesis/) | Dependency and stop-stack maps for governance, rights, capture, AI, reward, and transfer lanes. | No governance transition, rights, reward, AI, capture, transfer, or public-posture movement. |
 | [pilot-review-readiness](pilot-review-readiness/) | Governed-review handoff, question register, answerability map, packet-map, and construction-fork surfaces. | No pilot launch, target selection, reviewer appointment, construction verdict, live surface choice, or contribution-record movement. |
 
+## Lane 1 First Experiment
+
+Use this before treating contribution-workflow apparatus as the objective.
+
+| directory | current use | protected boundary |
+|---|---|---|
+| [git-non-capture-measurement](git-non-capture-measurement/) | Protocol skeleton for the charter's first experiment on this repository's git substrate. | No measurement result, K1 verdict, governance change, policy adoption, or public-posture movement. |
+
 ## First-Ring Contribution Lanes
 
 Use these for contribution intake, classification, review, rationale, and log
