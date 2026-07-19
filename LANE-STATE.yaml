@@ -1,27 +1,45 @@
 schema_version: "1.0"
 owner_id: architecture-of-legitimacy
 rule_ref: system/runtime/flows/derive-lane-health.md
-evaluated_at: "2026-07-18T09:39:18-05:00"
-run_ref: RUN-20260718-483-repository-work-cycle-cai-hourly
+evaluated_at: "2026-07-18T22:38:19-05:00"
+run_ref: RUN-20260718-516-repository-work-cycle-cai-hourly
 lanes:
   - lane_id: "1"
+    work_status: moving
+    last_movement: "README now points the public entryway at the ratified charter and Lane 1 target."
+    movement_ref: "README.md; governance/CHARTER.md#first-experiment"
+    steering_attention: none
+    steering_prompt: none
+    steering_ref: "LANES.yaml#LEGITIMACY-FEASIBILITY"
     light: green
-    reason_code: active_north_star_work_path
-    evidence_ref: "governance/CHARTER.md#first-experiment; LANES.yaml"
-    summary: "Lane 1 has an active charter-grounded git non-capture test path."
-    evaluated_at: "2026-07-18T09:39:18-05:00"
-    run_ref: RUN-20260718-483-repository-work-cycle-cai-hourly
+    reason_code: public_entryway_aligned_to_charter
+    evidence_ref: "README.md; governance/CHARTER.md; LANES.yaml"
+    summary: "README now leads with the charter-grounded Lane 1 force-or-falsify target."
+    evaluated_at: "2026-07-18T22:38:19-05:00"
+    run_ref: RUN-20260718-516-repository-work-cycle-cai-hourly
   - lane_id: "2"
+    work_status: thin
+    last_movement: "none found"
+    movement_ref: "LANES.yaml#PROVING-GROUND"
+    steering_attention: watch
+    steering_prompt: "Lane 2 lead scheduling still requires a recorded lease."
+    steering_ref: "LANES.yaml#PROVING-GROUND"
     light: yellow
     reason_code: supporting_lane_lease_required
     evidence_ref: "LANES.yaml#PROVING-GROUND"
     summary: "Lane 2 is active but may not lead scheduling without a recorded lease."
-    evaluated_at: "2026-07-18T09:39:18-05:00"
-    run_ref: RUN-20260718-483-repository-work-cycle-cai-hourly
+    evaluated_at: "2026-07-18T22:38:19-05:00"
+    run_ref: RUN-20260718-516-repository-work-cycle-cai-hourly
   - lane_id: A
+    work_status: moving
+    last_movement: "Public README was corrected against the ratified charter."
+    movement_ref: "README.md; governance/CHARTER.md"
+    steering_attention: none
+    steering_prompt: none
+    steering_ref: "AGENTS.md; LANES.yaml"
     light: green
-    reason_code: mailbox_processed_and_controls_intact
-    evidence_ref: "system/mailboxes/architecture-of-legitimacy/archive/20260716-lane-steering-first-class-lanes-and-adversarial-contributions.md"
-    summary: "Lane A processed stale lane-steering mail; controls remain intact."
-    evaluated_at: "2026-07-18T09:39:18-05:00"
-    run_ref: RUN-20260718-483-repository-work-cycle-cai-hourly
+    reason_code: charter_alignment_stewardship
+    evidence_ref: "README.md; AGENTS.md; governance/CHARTER.md"
+    summary: "Stewardship corrected the public README to lead from the ratified charter."
+    evaluated_at: "2026-07-18T22:38:19-05:00"
+    run_ref: RUN-20260718-516-repository-work-cycle-cai-hourly
