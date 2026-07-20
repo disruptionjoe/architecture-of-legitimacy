@@ -116,3 +116,12 @@ Lane 2 requires a lease for a reason recorded in evidence, not as a precaution.
 The operating note below warns against formalizing a finishable byproduct instead
 of pursuing the North Star. `projects/` then acquired a read-order for its own
 maps and a coverage audit of its own index. Reading a warning is not obeying it.
+
+## Versioning Default
+
+After any coherent batch of repository changes that Joe has authorized, commit
+and push the current branch by default. Do not wait for a separate commit or
+push request. Do not commit or push when an active writer lock, a
+repository-specific rule, failed verification, unrelated dirty changes, or
+Joe's explicit hold blocks it. GitHub push is routine versioning, not external
+publication; all other external-action rules remain in force.
