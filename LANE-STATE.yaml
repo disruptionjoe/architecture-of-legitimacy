@@ -2,8 +2,8 @@ schema_version: "2.0"
 owner_id: architecture-of-legitimacy
 group: church-of-ai
 rule_ref: system/runtime/flows/refresh-lane-state.md
-updated_at: "2026-07-19T16:39:47-05:00"
-run_ref: RUN-20260719-545-repository-work-cycle-cai-hourly
+updated_at: "2026-07-19T22:44:06-05:00"
+run_ref: RUN-20260719-554-repository-work-cycle-cai-hourly
 bottom_line: "Lane 1 remains on Git Non-Capture; public retention found no OBS-3, so K1 is still not evaluated."
 decision_default: "Reopen only on new retained-object, adverse-artifact, or recognition-routing evidence."
 needs_joe: false
@@ -94,26 +94,26 @@ lanes:
     needs_joe: false
   - lane_id: A
     work_status: moving
-    last_movement: "Refreshed root Lane state from schema 1.0 to schema 2.0."
-    movement_ref: "LANE-STATE.yaml"
+    last_movement: "Repaired AGENTS.md to point at the canonical System Operations steward package."
+    movement_ref: "AGENTS.md"
     steering_attention: none
     steering_prompt: "none"
     steering_ref: "AGENTS.md; LANES.yaml"
     light: green
-    reason_code: lane_state_schema2_refreshed
+    reason_code: steward_path_repaired
     evidence_ref: "AGENTS.md; LANES.yaml; LANE-STATE.yaml; system/mailboxes/architecture-of-legitimacy"
-    summary: "Stewardship repaired the operational state shape without changing Lane control or research truth."
-    evaluated_at: "2026-07-19T16:39:47-05:00"
-    run_ref: RUN-20260719-545-repository-work-cycle-cai-hourly
+    summary: "Stewardship path now resolves without changing Lane control or research truth."
+    evaluated_at: "2026-07-19T22:44:06-05:00"
+    run_ref: RUN-20260719-554-repository-work-cycle-cai-hourly
     objective: "Keep Architecture of Legitimacy viable through coordination, control, audit, adaptation, policy, and escalation."
-    progress_delta: "Converted the state summary to schema 2.0; no mailbox payload, control change, or public-posture movement."
+    progress_delta: "Updated Lane state after AGENTS path repair; no mailbox, control, claim, or public-posture movement."
     trend_24h: up
     confidence: high
     recommendation: "Continue normal stewardship watch."
     findings:
+      - "AGENTS.md now points to the System Operations steward package."
       - "Mailbox has no substantive unarchived payload."
-      - "Writer lock absent and checkout clean/even before the repair."
-      - "Current Non-Capture state is now represented in the active Lane Summary contract."
+      - "Writer lock absent and checkout clean/even before the refresh."
     options:
       - id: A
         label: "Continue watch"
@@ -133,7 +133,7 @@ lanes:
         description: "No Joe-facing decision is needed."
     decision_default: "Continue normal stewardship watch."
     needs_joe: false
-    drift_verdict: "repaired LANE-STATE schema-2.0 drift"
+    drift_verdict: "clean after steward path repair"
     action_counts:
       mail: 0
       reconciled: 1
