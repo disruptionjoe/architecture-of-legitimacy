@@ -2,8 +2,8 @@ schema_version: "2.0"
 owner_id: architecture-of-legitimacy
 group: church-of-ai
 rule_ref: system/runtime/flows/refresh-lane-state.md
-updated_at: "2026-07-20T07:38:57-05:00"
-run_ref: RUN-20260720-073651-repository-work-cycle-cai-hourly
+updated_at: "2026-07-20T08:39:20-05:00"
+run_ref: RUN-20260720-083552-repository-work-cycle-cai-hourly
 bottom_line: "Lane 1 remains on Git Non-Capture; public retention found no OBS-3, so K1 is still not evaluated."
 decision_default: "Reopen only on new retained-object, adverse-artifact, or recognition-routing evidence."
 needs_joe: false
