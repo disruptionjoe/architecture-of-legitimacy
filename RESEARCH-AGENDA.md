@@ -12,6 +12,7 @@ or public posture.
 
 Current scaffolds:
 
+- [Standing-first intervention boundary observation](explorations/standing-first-intervention-boundary-observation-2026-07-22.md) preserves a bounded five-record case in which evidence visibility, accountable ownership, affected-party standing, and a correction/stop route recur while domain remedies remain non-transferable. It changes no claim, rights, governance, K1, or public posture.
 - [Cross-owner revision pin observation](explorations/cross-owner-revision-pin-observation-2026-07-22.md) records one bounded CAI Systemic Failure / CAI Mechanism Design case in which source-correction authority, receiver disposition authority, and the historical admitted basis remain distinct. It changes no claim, governance, K1, rights, or public posture.
 - [Repo index coverage audit](projects/repo-index-coverage-audit-2026-07-13.md) reports mechanical coverage drift across tracked project artifacts, local project README maps, this agenda, and `TESTS.md` without backfilling entries, changing artifact status, moving claims or tests, changing governance or public posture, selecting sources, or launching review.
 - [Foundational test scaffold index](projects/foundational-test-scaffold-index-2026-07-13.md) collects the older direct T1-T6, T9-T11, and C2 synthetic fixtures and early scaffolds behind the current review-prep stack without marking tests passed, moving claims, adopting policy, selecting sources, launching review, or creating live contribution-record, reward, rights, governance, transfer, or public-posture meaning.
