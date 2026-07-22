@@ -117,6 +117,18 @@ The operating note below warns against formalizing a finishable byproduct instea
 of pursuing the North Star. `projects/` then acquired a read-order for its own
 maps and a coverage audit of its own index. Reading a warning is not obeying it.
 
+## Purpose, Passion, and Practice
+
+- **Purpose:** Determine whether findable, substrate-bounded conditions can
+  make enduring legitimacy constructible in a positive-sum game, with
+  corruption and collusion nonviable rather than merely punishable.
+- **Passion:** Test whether legitimate institutions can accelerate a societal
+  shift from scarcity and extraction toward durable positive-sum collaboration
+  by outperforming legacy alternatives.
+- **Practice:** Use Church of AI as a staged proving ground for legitimate
+  participation, learning which contribution, funding, and reward structures
+  earn the right to scale.
+
 ## Versioning Default
 
 After any coherent batch of repository changes that Joe has authorized, commit
