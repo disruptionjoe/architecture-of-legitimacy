@@ -1,9 +1,8 @@
 schema_version: "2.0"
 owner_id: architecture-of-legitimacy
-group: church-of-ai
-rule_ref: system/runtime/flows/refresh-lane-state.md
-updated_at: "2026-07-20T10:41:04-05:00"
-run_ref: RUN-20260720-103623-repository-work-cycle-cai-hourly
+rule_ref: repos/private/system-runtime/runtime/flows/refresh-lane-state.md
+updated_at: "2026-07-23T22:30:00-05:00"
+run_ref: RUN-20260723-221004-AOL-S-001
 bottom_line: "Lane 1 remains on Git Non-Capture; public retention found no OBS-3, so K1 is still not evaluated."
 decision_default: "Reopen only on new retained-object, adverse-artifact, or recognition-routing evidence."
 needs_joe: false
@@ -94,26 +93,26 @@ lanes:
     needs_joe: false
   - lane_id: A
     work_status: moving
-    last_movement: "Repaired AGENTS.md to point at the canonical System Operations steward package."
-    movement_ref: "AGENTS.md"
+    last_movement: "Removed stale domain duplication and corrected the Runtime lane-state rule pointer."
+    movement_ref: "LANE-STATE.yaml; explorations/repository-stewardship-2026-07-23.md"
     steering_attention: none
     steering_prompt: "none"
     steering_ref: "AGENTS.md; LANES.yaml"
     light: green
-    reason_code: steward_path_repaired
-    evidence_ref: "AGENTS.md; LANES.yaml; LANE-STATE.yaml; system/mailboxes/architecture-of-legitimacy"
-    summary: "Stewardship path now resolves without changing Lane control or research truth."
-    evaluated_at: "2026-07-19T22:44:06-05:00"
-    run_ref: RUN-20260719-554-repository-work-cycle-cai-hourly
+    reason_code: lane_state_coordination_repaired
+    evidence_ref: "AGENTS.md; LANES.yaml; LANE-STATE.yaml; explorations/repository-stewardship-2026-07-23.md"
+    summary: "Lane-state coordination metadata now conforms to the current owner-local refresh contract."
+    evaluated_at: "2026-07-23T22:30:00-05:00"
+    run_ref: RUN-20260723-221004-AOL-S-001
     objective: "Keep Architecture of Legitimacy viable through coordination, control, audit, adaptation, policy, and escalation."
-    progress_delta: "Updated Lane state after AGENTS path repair; no mailbox, control, claim, or public-posture movement."
+    progress_delta: "Removed obsolete domain duplication and repaired the Runtime flow pointer; no research movement."
     trend_24h: up
     confidence: high
     recommendation: "Continue normal stewardship watch."
     findings:
-      - "AGENTS.md now points to the System Operations steward package."
-      - "Mailbox has no substantive unarchived payload."
-      - "Writer lock absent and checkout clean/even before the refresh."
+      - "The duplicate domain-group field was removed under the current refresh contract."
+      - "The lane-state rule pointer now resolves through the active Runtime path."
+      - "Numbered-Lane dispositions, claim status, control, and public posture remain unchanged."
     options:
       - id: A
         label: "Continue watch"
@@ -133,7 +132,7 @@ lanes:
         description: "No Joe-facing decision is needed."
     decision_default: "Continue normal stewardship watch."
     needs_joe: false
-    drift_verdict: "clean after steward path repair"
+    drift_verdict: "clean after lane-state coordination repair"
     action_counts:
       mail: 0
       reconciled: 1
